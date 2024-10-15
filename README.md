@@ -95,10 +95,14 @@ Dace is a slight, wiry woman with short brown hair and clothing of a decidedly n
 
 - K'aeloree
 
-**Testers**
+**Contributors**
 
-- Arconian03
-- Oracle
+- jastey &nbsp;&ndash;&nbsp; coding and maintenance (versions 3.0–5.0)
+- Lady Lesatho &nbsp;&ndash;&nbsp; original portrait
+- Ilmatar &nbsp;&ndash;&nbsp; alternative portrait
+- -AkumA+ &nbsp;&ndash;&nbsp; audio mastering
+- Arconian03 &nbsp;&ndash;&nbsp; testing
+- Oracle &nbsp;&ndash;&nbsp; testing
 
 **Music**
 
@@ -106,10 +110,6 @@ Dace is a slight, wiry woman with short brown hair and clothing of a decidedly n
 - "Fall to Earth" by Jeremy Sherman
 
     (Both of these are royalty-free and available for purchase online in their entirety.)
-
-**Audio mastering**
-
-- -AkumA+
 
 **With thanks to**
 
