@@ -1,57 +1,118 @@
-![Latest Release](https://img.shields.io/github/v/release/spellholdstudios/Dace_NPC?include_prereleases&color=darkred)<a name="top" id="top">
-![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20Mac%20%7C%20linux&color=informational)
-![Language](https://img.shields.io/static/v1?label=language&message=English&color=limegreen)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/images/shs-corner-logo.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/images/shs-corner-logo.png" />
+  <img align="right" alt="SHS logo" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/images/shs-corner-logo.png" width="22%">
+</picture>
 
+[![Release](https://img.shields.io/github/v/release/Spellhold-Studios/Dace-NPC?include_prereleases&color=%2392403a)](https://github.com/Spellhold-Studios/Dace-NPC/releases/latest)
+[![Published](https://img.shields.io/github/release-date/Spellhold-Studios/Dace-NPC?display_date=published_at&label=published&color=%2392403a)](https://github.com/Spellhold-Studios/Dace-NPC/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Spellhold-Studios/Dace-NPC/total?color=%2392403a)](https://github.com/Spellhold-Studios/Dace-NPC/releases)
+<br>
+[![Views](https://badges.pufler.dev/visits/Spellhold-Studios/Dace-NPC?label=views&color=%2392403a)](https://github.com/Spellhold-Studios/Dace-NPC/releases)
+[![Games](https://img.shields.io/badge/games-BG2%20%a0%20BGT%20%a0%20BG2%3AEE%20%a0%20EET-%2392403a)](https://github.com/Spellhold-Studios/Dace-NPC/releases)
+[![Language](https://img.shields.io/badge/language-en-%2392403a)](https://github.com/Spellhold-Studios/Dace-NPC/releases)
 
-<div align="center"><h1>DACE NPC</h1>
+<!--
+Badges white space separator: %20%a0%20
+Badges ":" (colon) symbol: %3A
+Badges "-" (hyphen) symbol: --
+Games full list: BG1 BG2 BGT BG%3AEE SoD BG2%3AEE EET IWD1 IWD2 IWD%3AEE PST PST%3AEE
+IETF language tags: https://spellhold-studios.github.io/readmes/template-basic/ietf-lang-tags.pdf
+Why some badges update slowly: https://github.com/pujux/badge-it/issues/78
+-->
 
-<h3>A mod hosted at Spellhold Studios for Baldur's Gate II:ToB, Baldur's Gate Trilogy, BG2:EE and EET<h3>
+# Dace
 
-</div><br />
+*A Spellhold Studios mod for Baldur's Gate II*
 
+<br>
 
-**Author:** Tess Grey  
-**Mod Forum:** <a href="http://www.shsforums.net/forum/572-dace/">Dace NPC</a><br /><br />
+[<img alt="Download" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/download.svg" height="28">](https://github.com/Spellhold-Studios/Dace-NPC/releases/latest)&nbsp;
+[<img alt="Readme" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/readme.svg" height="28">](https://spellhold-studios.github.io/readmes/dace-npc/dace_readme.html)&nbsp;
+[<img alt="Webpage" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/webpage.svg" height="28">](https://spellhold-studios.github.io/)&nbsp;
+[<img alt="Discord" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/discord-blue.svg" height="28">](https://discord.gg/pE2Njbdb2a)
 
+## Introduction
 
-<div align="center">
-<a href="#intro">Overview</a> &#8226; <a href="#credits">Copyright Information</a></br>
-</div>
-
-<hr>
-
-
-## <a name="intro" id="intro"></a>Overview
-
-"I can see pretty easily what other people consider "good" an' "evil," and tell the difference, but I just don't understand why people get so concerned about doin' one or the other. Strikes me that the wisest thing to do is whatever the wisest thing is for whatever situation you're in, not whatever you've decided is some overarchin' truth. So I do "good" if I can profit and "evil" if I can profit and I won't get caught, and the hells can take the hindermost for all that I care which is which."
+>I can see pretty easily what other people consider "good" an' "evil," and tell the difference, but I just don't understand why people get so concerned about doin' one or the other. Strikes me that the wisest thing to do is whatever the wisest thing is for whatever situation you're in, not whatever you've decided is some overarchin' truth. So I do "good" if I can profit and "evil" if I can profit and I won't get caught, and the hells can take the hindermost for all that I care which is which.
 
 Dace Linton is a Chaotic Neutral human female bounty hunter, about 33 years old. She will come over and speak to your PC if you leave or enter through the lower archway of Waukeen's Promenade, where you can find her standing on the steps.
 
+*Please check the complete [Readme](https://spellhold-studios.github.io/readmes/dace-npc/dace_readme.html) to learn more about this mod before installation.*
+
+## Key features
+
+- A new bounty hunter with content through SoA and ToB
+- An extensive romance track for males and females of any race
+- An extensive friendship track for males and females of any race
+- Ties in with Throne of Bhaal plot
+- Very extensively voiced
+- Musical backtracks for late friendship and romance
+- Extensive Dace and PC initiated flirts
+- Many interjections throughout the course of the game
+- Multiple banters with each Bioware NPC
+- An original portrait by Lady Lesatho with an alternate by Ilmatar
+- New personal items and a gift for <CHARNAME> in ToB
+
+## Dace Linton
+
 Dace is a slight, wiry woman with short brown hair and clothing of a decidedly nondescript colour and practical cut. She speaks in an unremarkable contralto voice, clipping some words strangely and finishing others with a slight lilt. She has a somewhat crooked grin, as though some emotion other than amusement always manages to twist her smile slightly at the last minute. Dace seems very fond of the notion of practicality but doesn't always practice what she preaches, and occasionally shows a streak of whimsicality that borders on ridiculousness. Ninety percent of the time she is operating on Full-Sarcastic, Half-Obnoxious mode, but she is also capable of brief moments of unique insight and kindness.
 
+<br>
 
-<div align="right"><a href="#top">Back to top</a></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spellhold-studios.github.io/readmes/dace-npc/dace.jpg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://spellhold-studios.github.io/readmes/dace-npc/dace.jpg" />
+  <img align="left" alt="Portrait" src="https://spellhold-studios.github.io/readmes/dace-npc/dace.jpg" height="260">
+</picture>
 
+|  Ability  | Score |
+| :-------- | :---- |
+| STR       | 13    |
+| DEX       | 17    |
+| CON       | 15    |
+| INT       | 14    |
+| WIS       | 12    |
+| CHR       | 12    |
 
-<hr>
+### Biography
 
+> When asked about her past, Dace grins and launches into a meandering tale, punctuating it with wry facial expressions and rueful laughter.  Raised by her mother and father on a horse farm outside of Harrowdale Town, she grew up enjoying a rough-and-tumble lifestyle and animal husbandry with her sister, Everdeen.  When her father died and her mother sold their beloved horse farm, however, Dace had a falling out with her mother and sister and struck out on her own.  She learned her trade and made her own way in the world, but still visited her family occasionally.  There seems to have been some trouble after her sister married, however--a dalliance by Dace with the husband in question--and Dace now considers the bridges to her family largely burned.
+>
+> Dace does not seem to take any of this too seriously, as though she finds it more amusing than anything, but she does admit that she is mellowing as she ages.  Her fondest dream, which she will enthusiastically talk about, is to purchase her father's old horse farm and some stock from his lines and to continue his legacy.
+>
+> She is open and honest, if irreverent, about her past with her family, and is always happy to share one of her zany and usually off-color stories from her line of work. Still, her chattering has a note of deflection about it, as though there are aspects of her life she would rather not discuss.  Dace has a somewhat crooked grin, as though some emotion other than amusement always manages to twist her smile slightly at the last minute, but she generally maintains her laid-back and practical attitude.
 
+## Credits
 
-## <a name="credits" id="credits"></a>Copyright Information
+<!-- double space after each credits **Heading** if you don't need lists -->
 
-###### DACE NPC Mod is not developed, supported, or endorsed by BioWare&trade; or Interplay/BlackIsle, Overhaul, Beamdog or the Wizards of the Coast. It was developed by Tess Grey, based on material from the game Baldur's Gate II and its expansion.
-###### All mod content is &copy;Tess Grey .
-###### Baldur's Gate II: Shadows of Amn and Baldur's Gate II: Throne of Bhaal &copy; TSR, Inc. The BioWare Infinity Engine is &copy; BioWare Corp. All other trademarks and copyrights are property of their respective owners.
+**Writer**  
 
-###### This mod was created to be freely enjoyed by all Baldur's Gate II players, and its content is free of rights. However, it should not be sold, published, compiled or redistributed in any form without the consent of the author.
-###### Please note that any and all redistribution and/or hosting of this mod is prohibited without permission from the author.
+- Tess Grey
 
-###### If there are any copyright issues or this statement needs revision, then please contact us and advise us what to do about it. Most notably, if you see any artwork in this mod that might conflict with Copyright rules, please let us know as soon as possible, and I will remove the conflicting content immediately.
+**Coder**  
 
-###### The modding community for the Infinity Engine has been going strong for more than 15 years now, and is the culmination of thousands of unpaid modding hours by fellow fans of the game. Modders produce their best work and players get the best, well-supported mods when we all work together.
-###### There are two big ways to upset this harmony. One is to claim someone else's work as your own. The second is to host and redistribute a mod without permission from the author(s).
-###### Be kind to your fellow players and modders. Don't do either.</br></br>
-<div align="right"><a href="#top">Back to top</a></div>
+- K'aeloree
 
+**Testers**
 
-<hr>
+- Arconian03
+- Oracle
+
+**Music**
+
+- "Lone Pine" by Gayle Ellett & Todd Montgomery
+- "Fall to Earth" by Jeremy Sherman
+
+    (Both of these are royalty-free and available for purchase online in their entirety.)
+
+**Audio mastering**
+
+- -AkumA+
+
+**With thanks to**
+
+- Celissa, who was a brilliant editor and advisor.
+- K'aeloree, who did all of the hard work and really made Dace happen.
+- Also, heartfelt thanks and/or sincere apologies to Trajan, Sophocles, Aeschylus, Euripides, and Ikkyu, all of whom were either quoted or totally ripped off in this mod.
