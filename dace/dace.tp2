@@ -38,6 +38,10 @@ LANGUAGE ~English~
          ~english~
          ~dace/translations/english/setup.tra~
 
+LANGUAGE ~Russian by Prostln~
+         ~russian~
+         ~dace/translations/russian/setup.tra~
+
 // --------------------------------------------
 // Components
 // --------------------------------------------
