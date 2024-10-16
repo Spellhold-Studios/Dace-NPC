@@ -91,7 +91,7 @@ Dace is a slight, wiry woman with short brown hair and clothing of a decidedly n
 
 - Tess Grey
 
-**Coder**  
+**WeiDU coding**  
 
 - K'aeloree
 
@@ -101,8 +101,11 @@ Dace is a slight, wiry woman with short brown hair and clothing of a decidedly n
 - Lady Lesatho &nbsp;&ndash;&nbsp; original portrait
 - Ilmatar &nbsp;&ndash;&nbsp; alternative portrait
 - -AkumA+ &nbsp;&ndash;&nbsp; audio mastering
-- Arconian03 &nbsp;&ndash;&nbsp; testing
-- Oracle &nbsp;&ndash;&nbsp; testing
+
+**Testers**
+
+- Arconian03
+- Oracle
 
 **Music**
 
