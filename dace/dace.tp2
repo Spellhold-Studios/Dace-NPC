@@ -36,14 +36,14 @@ ALWAYS
 
   // set path for AUTO_TRA
   ACTION_IF (GAME_IS ~bg2ee eet~) BEGIN
-    OUTER_TEXT_SPRINT AUTO_TRA_PATH ~dace/translations~
+    OUTER_TEXT_SPRINT tra_location ~dace/translations~
   END ELSE BEGIN
-    OUTER_TEXT_SPRINT AUTO_TRA_PATH ~weidu_external/dace/translations~
+    OUTER_TEXT_SPRINT tra_location ~weidu_external/dace/translations~
   END
 END
 
 // Translations
-AUTO_TRA ~%AUTO_TRA_PATH%/%s~
+AUTO_TRA ~%tra_location%/%s~
 
 LANGUAGE ~English~
          ~english~
