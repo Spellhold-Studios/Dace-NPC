@@ -78,12 +78,12 @@
 @77   = ~Well, Linton--~
 @78   = ~Don't say a damn thing.  Of all the times to want a declaration of undyin' affection an' loyalty, doll... honestly, you just beat the band. As though I'd have dragged my sorry carcass this far and opened my stupid mouth to tell you I liked you as much as I do just to turn back on you now.~ [t#dac303]
 @79   = ~Let's see... fittin' words... fittin' words... Well, you're a lousy lay and have the emotional maturity of a twelve-year-old, Ducky, and you know I don't mean that, but you also know that I'm in no damn way about to break down into sentimental claptrap.~ [t#dac304]
-@80   = ~I'll tell you one thing I might not have told you before—you showed me that some things could be more important than that code of mine I'm always goin' on about,  and I damn well never thought anybody would get me to believe somethin' that blessedly strange.  But now... we're here to kill ‘Renicus, so let's go and kill ‘Renicus.  You get your soul back, I get to sit down for more than five minutes, everybody's happy.  Or we all die for you, Ducky, but we're all Damn Fools enough to think you're worth it.~ [t#dac305]
+@80   = ~I'll tell you one thing I might not have told you before--you showed me that some things could be more important than that code of mine I'm always goin' on about,  and I damn well never thought anybody would get me to believe somethin' that blessedly strange.  But now... we're here to kill 'Renicus, so let's go and kill 'Renicus.  You get your soul back, I get to sit down for more than five minutes, everybody's happy.  Or we all die for you, Ducky, but we're all Damn Fools enough to think you're worth it.~ [t#dac305]
 @81   = ~Either way, less yammering and more taking the stairs.~ [t#dac306]
 @82   = ~You turn to the prickly Miss Dacian Jean Linton, your employee-turned-friend.  You have been through a great deal together and things have changed and evolved much between the two of you before reaching this point in your travels.  You finally trust her and you know she considers you both employer and friend, but you feel you can't quite expect her to go any farther than this.  And, anyway, knowing Dace, she might not be planning on taking another step. ~
 @83   = ~Don't say a damn thing.  Of all the times to want a declaration of undyin' loyalty, darlin'... honestly, you just beat the band.  As though I'd have dragged my sorry carcass this far to turn back on you now.~ [t#dac307]
 @84   = ~Let's see, fittin' words, fittin' words... You're insufferable and morally suffocating and you have the emotional maturity of a twelve-year-old, doll, and you know I don't mean that, but you also know that I'm in no damn way about to break down into sentimental claptrap.~ [t#dac308]
-@85   = ~I'll tell you one thing I might not have told you before—you showed me that some things could be more important than that code of mine I'm always goin' on about,  and I damn well never thought anybody would get me to believe somethin' that blessedly strange.  But now... we're here to kill ‘Renicus, so let's go and kill ‘Renicus.  You get your soul back, I get to sit down for more than five minutes, everybody's happy.  Or we all die for you, Ducky, but we're all Damn Fools enough to think you're worth it.~ [t#dac309]
+@85   = ~I'll tell you one thing I might not have told you before--you showed me that some things could be more important than that code of mine I'm always goin' on about,  and I damn well never thought anybody would get me to believe somethin' that blessedly strange.  But now... we're here to kill 'Renicus, so let's go and kill 'Renicus.  You get your soul back, I get to sit down for more than five minutes, everybody's happy.  Or we all die for you, Ducky, but we're all Damn Fools enough to think you're worth it.~ [t#dac309]
 @86   = ~You turn to the prickly Miss Dacian Jean Linton, your bounty huntress employee.  The two of you have not gotten along very well and Linton keeps her own council.  Her motivations are something of a mystery to you, and you aren't sure as to the extent of your loyalty.  You feel you ought to discover whether or not you can count on her in the battle ahead. ~
 @87   = ~Look, Linton, we're not overly fond of each other, but I am paying you.  Are you willing to finish this fight with me?~
 @88   = ~C'mon, Dace, what do you say?  You're much too tough a cookie to back down now, right?~
@@ -92,18 +92,18 @@
 @91   = ~Nice try at manipulatin' me, you lousy--never mind.  Yeah, let's just get this over with.~ [t#dac311]
 @92   = ~Sorry.  Right.  That makes everything better.  I'll fight for you, <CHARNAME>, but only because you're payin' me well.~ [t#dac320]
 @93   = ~Oh, for cryin' out loud, Ducky, can't a girl get a rest?  I felt you tuggin' at me as you... left... or whatever it was you did.  It isn't bad enough, your makin' me skip out on killin' you and draggin' me halfway across the civilized world while you intermittently turn into a Dace-Eatin' Crab Monster... no, you've got to go and show me up in front of everybody by revealing that I care enough about you to follow you to hell and back.~ [t#dac312]
-@94   = ~Just... don't forget the “and back” part, all right, Ducky?  I'm not going to set up housekeeping ‘round here anytime soon, not even for you.~ [t#dac313]
+@94   = ~Just... don't forget the "and back" part, all right, Ducky?  I'm not going to set up housekeeping 'round here anytime soon, not even for you.~ [t#dac313]
 @95   = ~Oh, for cryin' out loud, <CHARNAME>, can't a girl get a rest?  I felt you tuggin' at us as you... left... or whatever it was you did.  It isn't bad enough, your makin' me skip out on killin' you and draggin' me halfway across the civilized world while you intermittently turn into a shrieking, slavering Crab Monster... no, you've got to go and get everybody to follow you to hell and back, keepin' you out of trouble.~ [t#dac314]
-@96   = ~Just... don't forget the “and back” part, all right, doll?  I'm not about to hang around here any longer than I have to, ‘specially not for your lousy hide.~ [t#dac315]
-@97   = ~Do you know, I think you're the Finest Damn Fool of us all, ‘Renicus.  Anybody wasn't a Damn Fool would've laid down and died by now... I'd almost admire you, if it weren't for the fact that you're a thoroughly sick and fairly ineffectual nut who messed with my Ducky... as you are, though, I'm just gonna have to make sure you pay for what you did one last time.~ [t#dac316]
+@96   = ~Just... don't forget the "and back" part, all right, doll?  I'm not about to hang around here any longer than I have to, 'specially not for your lousy hide.~ [t#dac315]
+@97   = ~Do you know, I think you're the Finest Damn Fool of us all, 'Renicus.  Anybody wasn't a Damn Fool would've laid down and died by now... I'd almost admire you, if it weren't for the fact that you're a thoroughly sick and fairly ineffectual nut who messed with my Ducky... as you are, though, I'm just gonna have to make sure you pay for what you did one last time.~ [t#dac316]
 @98   = ~Oh, wow.  Raise your hand if this whole thing sounds like a bad idea.~
 @99   = ~I just had this horrible vision of me, dead an' gone these many years, still paddin' around and askin' passerby for bacon.  Hope I don't draw that afterlife short-straw.~
 @100  = ~(groan) If you are done pontificating, I have slippers to put on...~
-@101  = ~Yet another example of the pitfalls of ambitions, kiddies.  And yet more support for Miss Linton's initial, “Hey, wanderin' into some forebodin' keep where some ancient evil is chained sounds like askin' for trouble” assessment of the situation!~
+@101  = ~Yet another example of the pitfalls of ambitions, kiddies.  And yet more support for Miss Linton's initial, "Hey, wanderin' into some forebodin' keep where some ancient evil is chained sounds like askin' for trouble" assessment of the situation!~
 @102  = ~Don't look at me.  My daddy only taught me how to play poker.~
-@103  = ~Why is it that “mad” and “mage” just seem to roost together like a pair of doves?  Why can't there be more “well-adjusted” mages or “emotionally stable” mages?~
-@104  = ~You do realize, Ducky, that this means that we are in a building that houses more than one dragon.  More. Than. One. Dragon.  Given that dandy little fact, what exactly d'ya think we're goin' to find as we keep movin'?  What exactly d'ya really think we're gonna find when we break that giant seal on the floor?  Did you even *look* at that seal?  It's huge!  And magical!  What d'ya think they're using it to hold back? Goblins?  Kobolds?  Somebody's Great-Aunt Gladys? No.  Something worse than “more than one dragon.”  Pack of Damn Fools... ~
-@105  = ~Pardon me while I try an' keep my heart from bleedin'.  Imprisoned Ones, False Helmites... Ducky, you idiot!  The quests you'll take!  Are we done now?  Can we go?!?  By all that's unholy, ‘nuff to stop an ol' lady's heart.~
+@103  = ~Why is it that "mad" and "mage" just seem to roost together like a pair of doves?  Why can't there be more "well-adjusted" mages or "emotionally stable" mages?~
+@104  = ~You do realize, Ducky, that this means that we are in a building that houses more than one dragon.  More. Than. One. Dragon.  Given that dandy little fact, what exactly d'ya think we're goin' to find as we keep movin'?  What exactly d'ya really think we're gonna find when we break that giant seal on the floor?  Did you even *look* at that seal?  It's huge!  And magical!  What d'ya think they're using it to hold back? Goblins?  Kobolds?  Somebody's Great-Aunt Gladys? No.  Something worse than "more than one dragon."  Pack of Damn Fools... ~
+@105  = ~Pardon me while I try an' keep my heart from bleedin'.  Imprisoned Ones, False Helmites... Ducky, you idiot!  The quests you'll take!  Are we done now?  Can we go?!?  By all that's unholy, 'nuff to stop an ol' lady's heart.~
 @106  = ~<CHARNAME>, tell me somethin'... what are you *really* doin'?  I mean, you talk a good piece about this 'Renicus fellow and this Imoen girl, but what I want to know is how you got into this muddle in the first place.~ [t#dac100]
 @107  = ~I'm a Bhaalspawn.  It isn't the easiest of things to be, but there it is.~
 @108  = ~I have no idea.  Things just happen sometimes, you know?~
@@ -369,14 +369,14 @@
 @368  = ~Makes sense, although it would never work for me.  So what's the problem?~
 @369  = ~Naturally.  Your logic is perfect, so why are you worried?~
 @370  = ~Fair enough.  Why the worry, then?~
-@371  = ~I just sometimes wonder what would happen if I were to abandon my code.  It's pretty simple, anyway—once you take a job you finish it, even if a better offer comes along. There will always be another offer after the job you're on, but there's no guarantee of a better payoff or even future work if you break one contract in favour of a new one.~
-@372  = ~So I go only trust in things I can value and calculate the concrete worth of, and I consider jobs carefully, and if I take one I stick by it.  Keeps things easy—the jobs keep comin' in and I never let myself get into sticky moral or emotional quandaries.  But what would happen if I stopped followin' that one simple rule—to come through on all contracts?~
-@373  = ~I worry that I'd be completely lost an' directionless, and that—well, it sorta scares me, which not much besides spiders can do.~
+@371  = ~I just sometimes wonder what would happen if I were to abandon my code.  It's pretty simple, anyway--once you take a job you finish it, even if a better offer comes along. There will always be another offer after the job you're on, but there's no guarantee of a better payoff or even future work if you break one contract in favour of a new one.~
+@372  = ~So I go only trust in things I can value and calculate the concrete worth of, and I consider jobs carefully, and if I take one I stick by it.  Keeps things easy--the jobs keep comin' in and I never let myself get into sticky moral or emotional quandaries.  But what would happen if I stopped followin' that one simple rule--to come through on all contracts?~
+@373  = ~I worry that I'd be completely lost an' directionless, and that--well, it sorta scares me, which not much besides spiders can do.~
 @374  = ~This is a pointless thought exercise, Linton.  Don't break the rule and you'll never have to worry.~
 @375  = ~I guess you'd have to find something new to believe in, Dace.  A new code, at the very least.~
 @376  = ~Simple, Linton.  Just don't be stupid and break your code, and you'll be fine.  You've been fine this far, no reason for that to change.~
-@377  = ~If you broke that code because you believed something was a better offer for emotional or moral reasons, Dace, then you would *already* have a new code, a new belief.   So you wouldn't have to worry—something would have already become more important to you than your perfectly constructed “mercenary code.”~
-@378  = ~If you broke one contract just for a better offer—one with more payoff, I mean—then you would have cause to worry.  You'd have broken your own rules and you might be risking future employment.~
+@377  = ~If you broke that code because you believed something was a better offer for emotional or moral reasons, Dace, then you would *already* have a new code, a new belief.   So you wouldn't have to worry--something would have already become more important to you than your perfectly constructed "mercenary code."~
+@378  = ~If you broke one contract just for a better offer--one with more payoff, I mean--then you would have cause to worry.  You'd have broken your own rules and you might be risking future employment.~
 @379  = ~Dace, don't worry so much.  If it ever happens, I think you're practical and tough enough to deal with it then.  For now, we have to keep moving.~
 @380  = ~Oh, Ducky.  I suppose you're bein' perfectly logical by sayin' so.  I just can't help worrying, that's all.  But don't mind me.  I can worry on my own, without slowin' you down like this.~
 @381  = ~Yeah, but I don't know if I could do that, Ducky.  I might just be too old an' close-minded an' set in my ways.  But don't mind me.  We should keep movin'.~
@@ -391,7 +391,7 @@
 @390  = ~I'll just keep my thoughts to m'self, then, jackass.  Just when I was startin' to like you, too.  Damn Fool.~
 @391  = ~Well, there are these two heroes, a young one an' an old one.  Old one's named Jax, and he's been around for ages, fought in lots of battles, an' his way of thinkin' has to do with warlords an' might-makes-right an' defendin' your own an' personal glory.~
 @392  = ~And this young fella, Dysse, well, he thinks in a new way.  Believes in talkin' his way out of things instead of fightin' sometimes, an' in preservin' civil order, an' in the good of the many bein' more important than the glory of one man's name.~
-@393  = ~Now, the goddess Lliira takes a look at the two of ‘em and favours Dysse.  She thinks that Jax's way of thinkin' is too old-fashioned an' she prefers the order an' reason of Dysse's philosophy.  And, bein' a meddlin' goddess, she decides to make fun of Jax by touchin' him in the head.~
+@393  = ~Now, the goddess Lliira takes a look at the two of 'em and favours Dysse.  She thinks that Jax's way of thinkin' is too old-fashioned an' she prefers the order an' reason of Dysse's philosophy.  And, bein' a meddlin' goddess, she decides to make fun of Jax by touchin' him in the head.~
 @394  = ~Jax goes right outta his mind and falls on a flock of sheep, slaughterin' them as though he were some sort of vicious monster, believin' that they're former friends of his who betrayed him somehow.~
 @395  = ~When he realizes what he's done, though, he's powerfully embarrased, an' he sees that even the gods themselves are against his old ways of thinkin'.  So he kills himself.  And that's that.~
 @396  = ~Wait, though, I think I know this story.  Doesn't Dysse see to it that Jax is given a proper burial, despite being an enemy of his?~
@@ -417,17 +417,17 @@
 @416  = ~I hate to sound like I'm advocatin' strict order in talkin' about codes like this, but wouldn't even bein' a lawless, opportunistic mercenary fall out from underneath you if you wind up bein' too chaotic about what jobs you take and what jobs you finish?~
 @417  = ~You didn't ask one question, there, Linton, you asked about ten.  And they were all pretty nonsensical.  What's gotten into you?~
 @418  = ~You seem pretty worked up about this, Dace, but I'm not sure what you're asking.~
-@419  = ~Settle down!  I don't see any reason why you should be fixating on this right now.  And I don't see any reason why you're attributing “codes” to what you do, anyway. The very concept is patently ridiculous to me.~
+@419  = ~Settle down!  I don't see any reason why you should be fixating on this right now.  And I don't see any reason why you're attributing "codes" to what you do, anyway. The very concept is patently ridiculous to me.~
 @420  = ~Well, to answer the question I think you're asking, I think it's more mercenary to always be on the lookout for a better offer, even if you are currently engaged.  Seems like the profit would be greater.~
-@421  = ~Well, to answer the question I think you're asking, I think it's more mercenary to finish whatever job you're contracted to finish, even if a better offer does come along in the middle of it.  If you keep jumping jobs, you do away entirely with any pretense of “honour among thieves” and I don't see how anyone would hire you after awhile.~
+@421  = ~Well, to answer the question I think you're asking, I think it's more mercenary to finish whatever job you're contracted to finish, even if a better offer does come along in the middle of it.  If you keep jumping jobs, you do away entirely with any pretense of "honour among thieves" and I don't see how anyone would hire you after awhile.~
 @422  = ~Oh, never mind, <CHARNAME>.  Dammit, you wouldn't understand, anyway.  I'm through talkin' about this now.~
 @423  = ~Only until nobody will hire you anymore because you never finish your jobs!  I should've known you'd say that, <CHARNAME>.  You just can't understand.  Never mind.  I'm through talkin' about this now.~
 @424  = ~I wish I could drum up enough bleak, gallows humour to laugh at your sayin' that just now, Ducky, but I'm too upset.  You're probably right, anyway.  Either way, though, I'm through talkin' about this now.~
 @425  = ~Ducky, if you're convinced you're right in doin' somethin', why spend time tryin' to convince somebody else you're right?  Why not just know you're right an' do it?~ [t#dac124]
-@426  = ~Well, because—~
-@427  = ~I don't—~
-@428  = ~We're responsible—~
-@429  = ~What do you—~
+@426  = ~Well, because--~
+@427  = ~I don't--~
+@428  = ~We're responsible--~
+@429  = ~What do you--~
 @430  = ~Never mind.  I didn't really want an answer.  You wouldn't be able to convince me of whatever your answer was, anyway, and you'd only be wastin' time trying, as per the question.  Self-defeatin', see.~
 @431  = ~Hey, you asked!~
 @432  = ~Wait, now, let me answer.~
@@ -442,7 +442,7 @@
 @441  = ~I don't have time for this.  If you don't want to talk, don't talk.  It's as simple as that.  But I won't be drawn into a fight with you.~
 @442  = ~I can be tryin'?  You have no idea how tryin' you can be, <CHARNAME>.  No more brains between your ears than a sheep has, an' why I'm still with you I don't rightly know!~ [t#dac127]
 @443  = ~Are you just trying to pick a fight with me?  Is that it?~
-@444  = ~Yeah, <CHARNAME>, maybe I am in one of those moods again!  Maybe you put me in ‘em with your tedious company—you an' all your Damn Fools!~ [t#dac128]
+@444  = ~Yeah, <CHARNAME>, maybe I am in one of those moods again!  Maybe you put me in 'em with your tedious company--you an' all your Damn Fools!~ [t#dac128]
 @445  = ~You're a Damn Fool by your own admission!  And I'm a Damn Fool for putting up with you and your homespun, backwoods, roadside-stand philosophy!~
 @446  = ~If you even knew what I was riskin', you Damn Fool, you'd be a little more understandin'.~ [t#dac129]
 @447  = ~Now shut up an' stop talkin' about this or I swear by the hells that I'll puncture your kidneys with Hellcat or die tryin'!~ [t#dac130]
@@ -457,7 +457,7 @@
 @456  = ~Why the good cheer, Dace?  You got over our little spat pretty quickly.~
 @457  = ~No, I don't want your damn bacon.  What's the big idea, just pretending that fight never happened?~
 @458  = ~Sure.  Not mad anymore, then?  I couldn't tell, from how you've been acting, which is nothing new, I suppose.~
-@459  = ~I was madder n' a wet hen, honey, but what good are apologies?  We're talkin' together just fine now, so there's no need to linger on it.  Apologies just draw attention to problems.  Problems go away on their own unless you keep feedin' and waterin' ‘em, so the whole conflict resolution process is just a waste of time.~
+@459  = ~I was madder n' a wet hen, honey, but what good are apologies?  We're talkin' together just fine now, so there's no need to linger on it.  Apologies just draw attention to problems.  Problems go away on their own unless you keep feedin' and waterin' 'em, so the whole conflict resolution process is just a waste of time.~
 @460  = ~Hey, I'd like an apology!~
 @461  = ~That's a stupid philosophy from you as usual.~
 @462  = ~Acknowledging conflict is necessary in relationships of any sort.~
@@ -465,7 +465,7 @@
 @464  = ~I'm just glad you're not angry.~
 @465  = ~"Emotionally backwards" doesn't even begin to describe you, Dace.~
 @466  = ~Look, I don't hold grudges an' I try to always dig up a little good cheer, or gallows humour, at the very least.~
-@467  = ~Life's too damn depressin' otherwise.  I mean, think about it--you get to the end of the line an' life hands you your share of the loot, and you look at it and say, “I worked harder than that!”~
+@467  = ~Life's too damn depressin' otherwise.  I mean, think about it--you get to the end of the line an' life hands you your share of the loot, and you look at it and say, "I worked harder than that!"~
 @468  = ~That is absolutely not true.~
 @469  = ~Very depressing, but true.~
 @470  = ~Too pessimistic for me.  Life is full of good things.~
@@ -476,7 +476,7 @@
 @475  = ~No, really, Dace.  What's bothering you?~
 @476  = ~Why did you pick that fight, Linton?~
 @477  = ~Doom and gloom aside, Dace, why have you been in such a mood lately?~
-@478  = ~Don't talk like that.  It's defeatist and ridiculous and I know you—you're tougher than that.  What's the problem?~
+@478  = ~Don't talk like that.  It's defeatist and ridiculous and I know you--you're tougher than that.  What's the problem?~
 @479  = ~Absolutely nothing is bothering me.  I picked the fight for no reason whatsoever.  When I ranted about what I was riskin', I only meant my sanity, what with bein' one of your Damn Fools.~ [t#dac132]
 @480  = ~That's my story and I'm stickin' to it and I'll have no more of your pryin'.  Now, let's find someplace to sit down for awhile, mmm?~ [t#dac133]
 @481  = ~Hey, Ducky, let's play kiss an' tell.  Darlin' critter like you must have some past conquests to brag about.~ [t#dac134]
@@ -485,7 +485,7 @@
 @484  = ~Plenty, but I'm not about to enumerate them for you, Linton.  Older than me or not, I doubt your love life can even compare.~
 @485  = ~I've had some experience, I suppose, but nothing too extraordinary.  What about yourself?~
 @486  = ~I have a few of the wildest stories imaginable, Linton, but I'm not about to discuss them in mixed company.  I'll tell you later, I promise.  Why, what about you?~
-@487  = ~Well, there was ‘Quin—he trained me as a bounty hunter, but he got married to a rich widow not long after I started livin' with him.  After which I promptly started livin' elsewhere, of course.~
+@487  = ~Well, there was 'Quin--he trained me as a bounty hunter, but he got married to a rich widow not long after I started livin' with him.  After which I promptly started livin' elsewhere, of course.~
 @488  = ~Was madly in love with a girl named Mandi Fae for about three years, in my twenties, but nobody much approved of the two of us an' Mandi Fae wanted kids an' got married, too.  Luke, of course, but then he hardly counts.~
 @489  = ~Then a few handfuls of others who don't count, either--men an' women who were just fun to be around for a passin' amount of time.  Nobody's meant much of anythin' for nigh onto seven years now.  Not since I started out on the road.~
 @490  = ~I don't have much truck with love anymore--seems to go wrong most of the time an' I'm a little leery about believin' in it.  Suppose that sounds jaded to you, but I think it's safer.~
@@ -497,11 +497,11 @@
 @496  = ~Well put, I suppose, although I'm not entirely sure I agree completely.~
 @497  = ~I just don't agree, Dace.  I hope you have cause to change your mind on this someday.~
 @498  = ~Cowardly, Linton!  Where's your sense of adventure?  Of risk? The payoff of true love could be incalculable!~
-@499  = ~I don't buy that “love” stuff, either.~
+@499  = ~I don't buy that "love" stuff, either.~
 @500  = ~Oh, I don't know.  I try to keep an open mind about such things.~
 @501  = ~Smart Ducky.  You an' I will just have to watch each others' backs, all right?  One of us sees somethin' as stupid as love comin', we just give a shout-out to the other. That way, everybody stays nice an' safe.~
 @502  = ~Very sweet, Ducky, if a little wide-eyed an' annoyin'.  Still, you'll be blessed if you can keep that attitude for another ten or twenty or thirty years, so don't start doubtin' just because the Big Bad ol' Dace started spoutin' off.~
-@503  = ~Cowardly?  Bah, no.  Smart risk assessment.  Comes from years on the job.  You're cute, though, Ducky.  Maybe you'll get your incalculable payoff someday.  You make sure an' write sayin' “I told you so, Linton,” all right?~
+@503  = ~Cowardly?  Bah, no.  Smart risk assessment.  Comes from years on the job.  You're cute, though, Ducky.  Maybe you'll get your incalculable payoff someday.  You make sure an' write sayin' "I told you so, Linton," all right?~
 @504  = ~Fair enough. That's a clever way to think, Ducky.  Either way, you're partly right in the end.~
 @505  = ~Oh, My Unsure Ducky.  So politely non-committal. Tell you what, I'll watch your back and you watch mine, all right? One of us sees somethin' as stupid as love comin', we just give a shout-out to the other. That way, everybody at least has fair warnin'.~
 @506  = ~Hey, <CHARNAME>, c'mere a minute, will you?  I've got to ask you somethin', and I'd rather not get any commentary from the kiddie club coterie you drag around... ~ [t#dac135]
@@ -671,10 +671,10 @@
 @670  = ~I trust that's sarcastic?~
 @671  = ~And why is that?~
 @672  = ~What?  Why?~
-@673  = ~Somethin' just occurred to me.  I probably shouldn't be such a snob about bein' “not a common thief” around you, should I?  Seein' as you're, well, a thief?~ [t#dac181]
+@673  = ~Somethin' just occurred to me.  I probably shouldn't be such a snob about bein' "not a common thief" around you, should I?  Seein' as you're, well, a thief?~ [t#dac181]
 @674  = ~It doesn't bother me any, Dace.  I am what I am.~
 @675  = ~I take a sort of twisted pride in my profession when you say that, Linton, so don't worry.~
-@676  = ~I don't really consider myself a “common thief” either, Dace. Thought you'd have picked up on that by now.~
+@676  = ~I don't really consider myself a "common thief" either, Dace. Thought you'd have picked up on that by now.~
 @677  = ~I admire you, I guess, darlin'.  In an abstract way, that is.~ [t#dac182]
 @678  = ~What a delightfully qualified compliment.  What exactly is it for?~
 @679  = ~How is that?~
@@ -695,9 +695,9 @@
 @694  = ~I suppose we can safely assume that for the purposes of whatever strange question you're about to ask me.~
 @695  = ~Well, once there was a plucky Duck, an' Duck with toads would have no truck.
 When once a toad with Duck did trade, then Ducky Duck did draw a blade,
-And said, “With toads I have no truck, so you, my friend, are out of luck,” 
+And said, "With toads I have no truck, so you, my friend, are out of luck," 
 And then the toad did run away, and here Duck stands with us today!~ [t#dac186]
-@696  = ~Hey, Dace-—a little more “bounty hunter” and a little less “amateur bard,” got it?~
+@696  = ~Hey, Dace--a little more "bounty hunter" and a little less "amateur bard," got it?~
 @697  = ~That was truly, truly awful, Linton.~
 @698  = ~Cute, Dace.  Not bard material, but cute.~
 @699  = ~The last thing I need is more enemies, Linton, and that's all your singing is going to get us.~
@@ -707,7 +707,7 @@ And then the toad did run away, and here Duck stands with us today!~ [t#dac186]
 @703  = ~No. There are things I have to do, but I still feel as though I'm making my own way through life.~
 @704  = ~Sometimes, but I'm doing what I must.~
 @705  = ~Never really thought of it that way, no.~
-@706  = ~I've been meaning to tell you, Dace—I really don't find your company that engaging.  So, less talk and more work, all right?~
+@706  = ~I've been meaning to tell you, Dace--I really don't find your company that engaging.  So, less talk and more work, all right?~
 @707  = ~I made the mistake about thinkin' more on fatalism and choice and destiny an' all that nonsense after last time we talked, Ducky.  It reminded me of another story that Aurelia made me an' Ever read.~ [t#dac188]
 @708  = ~It's funny, because she made us read it so that we could be sufficiently horrified at what happened, but I took a different lesson from it, as I'm so often stubbornly wont to do.  Want to hear it?~ [t#dac189]
 @709  = ~Sure, Dace.~
@@ -809,7 +809,7 @@ And then the toad did run away, and here Duck stands with us today!~ [t#dac186]
 @805  = ~I guess I just make an exception for you, Linton.~
 @806  = ~Maybe I have let our association go too far, but that can always be changed if I ever feel that doing so is my duty.~
 @807  = ~Nonsense, Dace.  Just because I believe in good and honor and law doesn't mean it's my job to force everyone else to believe in the same.~
-@808  = ~Yeah, well, say what you like, but I still think you're a little too laid-back to be a very good paladin.  In what you say to me, at least.  I wouldn't like you as much as I do if you were a very good paladin, though, so how ‘bout you just take it as a compliment an' we'll let the matter drop.~
+@808  = ~Yeah, well, say what you like, but I still think you're a little too laid-back to be a very good paladin.  In what you say to me, at least.  I wouldn't like you as much as I do if you were a very good paladin, though, so how 'bout you just take it as a compliment an' we'll let the matter drop.~
 @809  = ~Good attitude, honey.  Anyway, I like you just fine, so don't take it too hard if an' when I do let my hypocritical prejudices slip.~
 @810  = ~Aww, honey, don't you see?  Doesn't matter to me what you consider yourself.  You'll always be far more a common thief than I am. To me, anyway.~
 @811  = ~Well, you're able to devote yourself to a god even with that inconvenient little paternity problem of yours.  If I had your daddy, I'd pretty much shy away from those meddlin' deity-types altogether.~
@@ -862,9 +862,9 @@ And then the toad did run away, and here Duck stands with us today!~ [t#dac186]
 @858  = ~Aww, thanks for carin' whether or not I live or die, Ducky.~
 @859  = ~Yeah, yeah.  I'm just glad to have the "poison ivy" theory confirmed.  Was worried there for a second...~
 @860  = ~Thank you, darlin', but I'm a tough old bird.  Just makin' sure, is all. ~
-@861  = ~Hey, Dace—-a little more “bounty hunter” and a little less “amateur bard,” got it?~
+@861  = ~Hey, Dace--a little more "bounty hunter" and a little less "amateur bard," got it?~
 @862  = ~Why, of course, darlin'!  Now and then I just get so overcome with the sheer joy of bein' a part of your dog-and-pony show that I have to break right into song.~
-@863  = ~Yeah, all I really needed on this trip was an odd old bounty hunter who runs the gamut from “angsty” to “zany” on any given day.~
+@863  = ~Yeah, all I really needed on this trip was an odd old bounty hunter who runs the gamut from "angsty" to "zany" on any given day.~
 @864  = ~You preach practicality but indulge fairly often in whimsy, Dace.  Why is that?~
 @865  = ~I think I prefer your more pragmatic side, myself, Linton.  Keep the whimsicality to a dull roar, if you please.~
 @866  = ~It's fine, Dace.  I like to see that it's not always pragmatism and mercenary tendencies with you.~
@@ -873,45 +873,45 @@ And then the toad did run away, and here Duck stands with us today!~ [t#dac186]
 @869  = ~Pragmatism doesn't preclude whimsicality.  It's a fine code to live one's life and make one's decisions by, but you can still make practical choices while annoyin' all those around you with madcap glee.~
 @870  = ~Point taken.  Really do try to keep the gleeful singing to a minimum, though, please.~
 @871  = ~I suppose you have a point.~
-@872  = ~That's an idiotic philosophy, Linton.  It makes you look more “insane” than “charming”.  Rein it in from now on.~
+@872  = ~That's an idiotic philosophy, Linton.  It makes you look more "insane" than "charming".  Rein it in from now on.~
 @873  = ~I have very little use for practicality, but whimsy delights me.  Whatever works for you.~
-@874  = ~“Whimsicality” escapes me somewhat, Dace, but you manage to be occasionally practical enough that it doesn't bother me.~
+@874  = ~"Whimsicality" escapes me somewhat, Dace, but you manage to be occasionally practical enough that it doesn't bother me.~
 @875  = ~I like both sides of you just fine, Dace.  Keep it up.~
 @876  = ~Sorry, darlin'.  I make no such rash promises.~
 @877  = ~That's the spirit, Ducky!~
-@878  = ~Well, but, what's your answer for it? The question of destiny, I mean? Things happen to you, and you make things happen, and people do things to you, and you choose how you react—but how much of it is really your choice?~
-@879  = ~Everyone has a destiny, Dace.  We can only act within it—-breaking from it isn't a power that is granted to us.~
-@880  = ~I don't buy into the concept of  “destiny.”  I don't think that larger forces involve themselves in the lives of mortals.  Not on a regular basis, anyway.~
+@878  = ~Well, but, what's your answer for it? The question of destiny, I mean? Things happen to you, and you make things happen, and people do things to you, and you choose how you react--but how much of it is really your choice?~
+@879  = ~Everyone has a destiny, Dace.  We can only act within it--breaking from it isn't a power that is granted to us.~
+@880  = ~I don't buy into the concept of  "destiny."  I don't think that larger forces involve themselves in the lives of mortals.  Not on a regular basis, anyway.~
 @881  = ~Destiny is a load of nonsense.  I make my own choices and my life is mine to control. Things may affect me, but that's just circumstance.  It isn't some extraordinary fate forcing my hand.~
 @882  = ~I believe in destiny.  I may not always like it, but I believe in it.~
-@883  = ~I think we all have a destiny of a sort, but not to the extent some people believe that we do.  I think that some things are fixed—some events and some outcomes—but mostly, I think we have the freedom to choose what happens our day-to-day existence.~
+@883  = ~I think we all have a destiny of a sort, but not to the extent some people believe that we do.  I think that some things are fixed--some events and some outcomes--but mostly, I think we have the freedom to choose what happens our day-to-day existence.~
 @884  = ~The very thought of destiny gives me the heebie jeebies, darlin'.  I just don't buy it, not for a minute.~
 @885  = ~To think that I don't have full control over my life an' my choices... so that the good things that happen are happenin' because I made the right decisions and the bad things that happen are happenin' because I was an idiot and can learn to avoid such things in the future.~
-@886  = ~The idea that my life is all planned out an' controlled by somethin' bigger than myself—ugh.  Now that, I won't stand for. That might be me denyin' it so I can sleep at night, but if that's the case, I can deal with it.~
+@886  = ~The idea that my life is all planned out an' controlled by somethin' bigger than myself--ugh.  Now that, I won't stand for. That might be me denyin' it so I can sleep at night, but if that's the case, I can deal with it.~
 @887  = ~You're just fooling yourself, Linton, but if it makes it easier for you, that's fine.~
 @888  = ~Well, it doesn't matter what you believe.  If destiny does exist, we can't change it, and if it doesn't, then we're muddling along just fine.~
 @889  = ~I feel similarly about it.  I just try not to think about it too much.~
 @890  = ~You should keep an open mind about some forms of destiny, Dace.  Maybe somebody is looking out for you.  Destiny can't be all bad.~
 @891  = ~Yeah, well, you and your fatalism can go an' suck an egg, darlin'.  I'll just traipse happily along, willingly an' joyfully blind to any possible pointin' fingers of destiny.~
 @892  = ~Best not to think on it, yeah.  So, let's stop thinkin' on it and get goin'.  I'd like to have a good sit sometime today.~
-@893  = ~Well, there was once a queen whose husband, the king Agem, had to go to war in a distant country.  Before he left, he up an' sacrificed their youngest daughter to the gods—if he hadn't, they wouldn't have let him set sail.~
-@894  = ~The queen, Nestra, didn't give a damn about the war—she just didn't want to have her daughter killed, but Agem did it just the same an' sailed off.  He was gone for an awfully long time, an' he naturally expected Nestra to keep the home fires burnin' and just generally be an obedient wife.~
+@893  = ~Well, there was once a queen whose husband, the king Agem, had to go to war in a distant country.  Before he left, he up an' sacrificed their youngest daughter to the gods--if he hadn't, they wouldn't have let him set sail.~
+@894  = ~The queen, Nestra, didn't give a damn about the war--she just didn't want to have her daughter killed, but Agem did it just the same an' sailed off.  He was gone for an awfully long time, an' he naturally expected Nestra to keep the home fires burnin' and just generally be an obedient wife.~
 @895  = ~She kept the home fires burnin' just fine, albeit with another man, with whom she was plottin' to usurp the throne.  Never forgave Agem for killin' her daughter, you see.  And one day Agem came home, an' he had with him a concubine an' he told Nestra to be nice to her, and she kept her mouth shut and laid out a real hero's welcome for him.~
 @896  = ~Then she waited until he was in the bath an' told her boyfriend to go an' kill him.  He didn't have the stomach for it, though, so she picked up a big ol' axe and went and did it herself, and vengeance for her daughter and the power of throne were both hers.~
 @897  = ~I've heard that story. Things didn't end well for Nestra, Dace.  She had defied the gods herself.~
 @898  = ~So what did you take from the story?  Somehow I doubt it was anything about being an obedient wife.~
-@899  = ~Again, Dace, I must ask—what's your point?~
+@899  = ~Again, Dace, I must ask--what's your point?~
 @900  = ~And the illustrious Miss Linton's take on the tale is--?~
 @901  = ~That's neither here nor there, honey, and now you're startin' to sound like Aurelia.  Like I said, we were supposed to suck up all the noble lessons an' dire warnings.  I had a different take on it, though.~
 @902  = ~This should be good.~
 @903  = ~Blind to the bigger picture as usual, Linton.  Very well, what did you get out of your bastardized version of the story?~
 @904  = ~You always have a choice.  Always.  If it looks like you don't have a choice, then you're just not lookin' hard enough.  It might come down to your decidin' what's more important and what you're willing to risk or pay or forego by makin' a particular choice, but the choice is still there.~ [t#dac998]
 @905  = ~That's what I learned from the story.  Even if it means picking up the axe and doing it yourself, you always have a choice.~ [t#dac997]
-@906  = ~Think how nifty I could look with a hat.  An odd hat, maybe with a feather.  A big feather.  It could become my “thing”—I'd be "that bounty hunter with the hat."~
+@906  = ~Think how nifty I could look with a hat.  An odd hat, maybe with a feather.  A big feather.  It could become my "thing"--I'd be "that bounty hunter with the hat."~
 @907  = ~That's a supremely bad idea.~
 @908  = ~You could look cute in a hat, I guess.~
 @909  = ~A hat. Top-tier conversation as usual.~
-@910  = ~Sometimes, Dace—just sometimes, mind you, and not very frequently—you're slightly fun to be around.  Slightly.~
+@910  = ~Sometimes, Dace--just sometimes, mind you, and not very frequently--you're slightly fun to be around.  Slightly.~
 @911  = ~Hey, Ducky?~
 @912  = ~Mmm?~
 @913  = ~Yeah?~
@@ -1031,7 +1031,7 @@ And then the toad did run away, and here Duck stands with us today!~ [t#dac186]
 @1027 = ~Yeah, I don't understand women.  Pack of ninnies, for the most part.  I get along better with men, too.  Still, you seem to do all right with most people, men an' women.~
 @1028 = ~You follow in the hopes of retrieving something dear to you. I say that the longer you keep this up, the more you will lose.~
 @1029 = ~Take this woman, for example.  Vapid, scrawny, so much older than you--and yet you still care for her, don't you?  Tell me, <CHARNAME>, what is she, to you?  A friend, a lover, a mentor, an advisor, a mother-figure?  It matters not.  She will become my pet, and every time I look on her I will remember fondly how I made you suffer and die!~
-@1030 = ~What? Oh, for cryin' out loud—~
+@1030 = ~What? Oh, for cryin' out loud--~
 @1031 = ~The Final Battle with Bodhi.
 
 Bodhi appeared in an ambush shortly before I reached her haven, warning me that she was aware of my pursuit and stealing from me the one person that is dearest to my heart: Dace.  Before she vanished and unleashed more of her undead creations upon me, Bodhi warned me that if I continue I will lose even more than I thought possible.  I cannot give up on the Rhynn Lanthorn... but now the life and immortal soul of Dace is at stake, as well!~
@@ -1055,10 +1055,10 @@ Bodhi has turned Dace into a vampire!  Or... or very nearly.  The process may no
 @1047 = ~I lost a dear one in a battle with his sister, Bodhi.  I seek a means of curing her.~
 @1048 = ~A dear one was taken by a vampire. What can I expect when I find her?~
 @1049 = ~Someone I care about has fallen to a vampire. Is there any way to save her?~
-@1050 = ~<CHARNAME>, before we go one damned step further, there's somethin' I have to tell you.  Seems these things might happen on ‘adventures,' now that I think about it, and I just wanted to give you fair warnin'.  I hate spiders.  No, no, I really hate ‘em, darlin'.  Helluva lot.  They're probably the only thing I can think of that really gives me the screamin' meemies, you know?~ [t#dac972]
-@1051 = ~So if this little ‘adventure' of yours is gonna involve more than the occasional normal-sized outside-dwelling spider... we might have a problem.  Reassure me that you're not plannin' on tryin' to drag me into the Underdark or some sort of giant spider lair.  Just mad mages and Imo-whatshername rescuin', all right?  Anything else, anything spider-related, you clear with me, first.~
-@1052 = ~<CHARNAME>, before we go one damned step further, there's somethin' I have to tell you.  Seems these things might happen on ‘adventures,' now that I think about it, and I just wanted to give you fair warnin'.  I hate spiders.  No, no, I really hate ‘em, darlin'.  Helluva lot.  They're probably the only thing I can think of that really gives me the screamin' meemies, you know?  Just, uh, warnin' you.~ [t#dac972]
-@1053 = ~Don't get involved, darlin'.  Trust me... I was in town a coupla' days before meetin' up with you, and that was a coupla' days (long) enough to figure out that there's a nasty guild war goin' on in this town—really nasty, since I've seen some of ‘em, and the one guild's bloodsuckers, I guarantee it.~ [t#dac972]
+@1050 = ~<CHARNAME>, before we go one damned step further, there's somethin' I have to tell you.  Seems these things might happen on 'adventures,' now that I think about it, and I just wanted to give you fair warnin'.  I hate spiders.  No, no, I really hate 'em, darlin'.  Helluva lot.  They're probably the only thing I can think of that really gives me the screamin' meemies, you know?~ [t#dac972]
+@1051 = ~So if this little 'adventure' of yours is gonna involve more than the occasional normal-sized outside-dwelling spider... we might have a problem.  Reassure me that you're not plannin' on tryin' to drag me into the Underdark or some sort of giant spider lair.  Just mad mages and Imo-whatshername rescuin', all right?  Anything else, anything spider-related, you clear with me, first.~
+@1052 = ~<CHARNAME>, before we go one damned step further, there's somethin' I have to tell you.  Seems these things might happen on 'adventures,' now that I think about it, and I just wanted to give you fair warnin'.  I hate spiders.  No, no, I really hate 'em, darlin'.  Helluva lot.  They're probably the only thing I can think of that really gives me the screamin' meemies, you know?  Just, uh, warnin' you.~ [t#dac972]
+@1053 = ~Don't get involved, darlin'.  Trust me... I was in town a coupla' days before meetin' up with you, and that was a coupla' days (long) enough to figure out that there's a nasty guild war goin' on in this town--really nasty, since I've seen some of 'em, and the one guild's bloodsuckers, I guarantee it.~ [t#dac972]
 @1054 = ~Let me see that map a minute.  We're traveling that far?  We're going to need horses, you know, <CHARNAME>.~ [t#dac972]
 @1055 = ~Horses?~
 @1056 = ~Yeah.  Wait a second, why don't we have horses already?~
@@ -1125,7 +1125,7 @@ Bodhi has turned Dace into a vampire!  Or... or very nearly.  The process may no
 @1117 = ~Isn't it bad enough that we have to *fight* giant spiders without havin' a tame one follow us around?~ [t#dac972]
 @1118 = ~(You really can't tell for sure if Dace Linton is genuinely fond of you.  Sure, she's still traveling with you, but she isn't the easiest person to get along with, and there are times when you find yourself vaguely doubting her mental stability.  Once in a while, though, when she approaches you with that wicked, crazy, slightly-mean-streak spark in her eye, you get the funny feeling that she might like you after all.)~
 @1119 = ~(Dace has caught you with your sides unguarded and she proceeds to unleash a barrage of not-gentle kidney-pokings upon you, one sharp forefinger at either of the sides of your back.  Cackling madly, she darts away, leaving your kidneys feeling slightly tenderized... )~
-@1120 = ~(Dace comes up beside you as you walk along.  She is humming under her breath, and after a moment of staring sidelong at you as she walks next to you, she grins and sings quietly, almost under her breath, “Oh Ducky, my Ducky, your heart is so plucky, your boots are so mucky, but still you slog on.  You like to do good and your head's made of wood, still you do what you should, plucky Ducky of mine.”  She catches your eye and inclines her head in a bow full of mock gravity before dropping back in line, resuming her cheerful humming of the song.)~
+@1120 = ~(Dace comes up beside you as you walk along.  She is humming under her breath, and after a moment of staring sidelong at you as she walks next to you, she grins and sings quietly, almost under her breath, "Oh Ducky, my Ducky, your heart is so plucky, your boots are so mucky, but still you slog on.  You like to do good and your head's made of wood, still you do what you should, plucky Ducky of mine."  She catches your eye and inclines her head in a bow full of mock gravity before dropping back in line, resuming her cheerful humming of the song.)~
 @1121 = ~(Dace is looking at you with odd gravity, and when she catches your eye she begins to recite something.)~
 @1122 = ~"Humans are indeed frightful beings.
 A single moon
@@ -1141,11 +1141,11 @@ So why be alarmed
 At its evanescence?~ [t#dac778]
 @1125 = ~My friend Tarquin's favourite, that is.  He got it off some dead philosopher.  Thought you might appreciate it, m'dear Duck.~ [t#dac779]
 @1126 = ~Dace is looking at you with odd gravity, and when she catches your eye she begins to recite a poem.~
-@1127 = ~“I mark my way with blood and bone
+@1127 = ~"I mark my way with blood and bone
 On this grey path of ice and stone.
 With bleak eyes I survey the Veil
 My heart on fire, my soul death-pale.~ [t#dac780]
-@1128 = ~My death or yours—it pains me not.
+@1128 = ~My death or yours--it pains me not.
 With chill disdain I cast the lot.
 A being cruel and darkly cold,
 As lovely as the sea, and old.~ [t#dac781]
@@ -1160,7 +1160,7 @@ And gather to me all blood and bone.~ [t#dac783]
 @1131 = ~Woman I knew named Ila wrote that...probably about herself.  It just came to mind now when I was lookin' at you.~ [t#dac784]
 @1132 = ~(Glancing at you as she passes near where you stand, she shakes her head.)~
 @1133 = ~Ducky, sometimes I look at you and wonder why the hell I decided a Damn Fool like you was worth travelin' with. Then there's times like just now, when it isn't quite so tough to figure out.~ [t#dac785]
-@1134 = ~Damn Fool Dace Linton reportin' for duty, <PRO_SIRMAAM>!  Wonderin' what Damn Fool thing you'd like me to do today in your quest for good or balance or evil or world domination or Timmy the Tarrasque's lost puppy or whatever it was you said we'd do this time.  Naw, seriously, darlin', I'm becomin' more and more comfortable every day with bein' one of your very own Damn Fools, so don't you worry ‘bout me none.~
+@1134 = ~Damn Fool Dace Linton reportin' for duty, <PRO_SIRMAAM>!  Wonderin' what Damn Fool thing you'd like me to do today in your quest for good or balance or evil or world domination or Timmy the Tarrasque's lost puppy or whatever it was you said we'd do this time.  Naw, seriously, darlin', I'm becomin' more and more comfortable every day with bein' one of your very own Damn Fools, so don't you worry 'bout me none.~
 @1135 = ~Hey, Ducky, I've got a really good idea!  For your quest!  We can... sit!  Somewhere with food!  Right now!~ [t#dac787]
 @1136 = ~(Dace is standing beside you when she suddenly reaches out and places her hand on your back, between your shoulder blades.  She lets it remain there for a moment, not speaking, a strangely comradely gesture, coming from her, and then moves away.)~
 @1137 = ~(You feel something at your side and look down to see, much to your surprise, that Dace has taken your hand.  You look to her face for a clue as to what she is doing, but she is looking off into the distance.  After a moment, she lets go and slips away from you.)~
@@ -1181,10 +1181,10 @@ And gather to me all blood and bone.~ [t#dac783]
 @1152 = ~(Dace takes a moment during one of your brief breaks to worm her way into the circle of your arm.  She kisses your cheek quickly, grinning at your slightly surprised look.)~
 @1153 = ~What?  Even I succumb to impractical urges now and then.~ [t#dac796]
 @1154 = ~(Dace comes up alongside you and wordlessly hands you a piece of cold, slightly greasy bacon, slipping it into your hand with a gesture that is clearly meant to be surreptitious.)~
-@1155 = ~Shhhh... I've had that in my pack for two days—it's my second-to-last piece.  Consider yourself hugely honoured... and don't let any of the rest of these vultures know I gave it to you.~ [t#dac797]
+@1155 = ~Shhhh... I've had that in my pack for two days--it's my second-to-last piece.  Consider yourself hugely honoured... and don't let any of the rest of these vultures know I gave it to you.~ [t#dac797]
 @1156 = ~(You feel a sharp tug on your hair and turn quickly to see Dace looking intently at the ground, her hands neatly folded behind her back.)~
 @1157 = ~(You notice that Dace is staring very hard at you.  Her expression is fairly inscrutable, but you think you can see both sadness and curiosity in her dark brown eyes... and maybe, unless you're imagining it, a touch of genuine wonder.)~
-@1158 = ~(Most days, despite her assertion that you are “Just Ducky,” you can't help but wondering how Dace really feels about you underneath all of the snide comments, patronizing glances, and occasional opportunistic kidney-pokings.)~ [t#dac972]
+@1158 = ~(Most days, despite her assertion that you are "Just Ducky," you can't help but wondering how Dace really feels about you underneath all of the snide comments, patronizing glances, and occasional opportunistic kidney-pokings.)~ [t#dac972]
 @1159 = ~(Try to take Dace's hand.)~
 @1160 = ~(Try to stroke Dace's hair.)~
 @1161 = ~(Try to put an arm around Dace.)~
@@ -1228,7 +1228,7 @@ And gather to me all blood and bone.~ [t#dac783]
 @1199 = ~Well, if that's the case, I'm not the one you oughta be talkin' to.  Go an' talk to him about it.  "That incident," as you call it, was a mutually beneficial, essentially meaningless, one-time expression of comradery an' comfort.  I'm not competition, if that's your issue.  So hash this out with him an' leave me out of it.~
 @1200 = ~Is that so?  Well, nice as that may be, honey--and understand I'm not comin' down on one side or the other, given such a rhetorical situation--you've got no control over what I choose to do until you ask for it an' I freely give it.  And now is not the time for such askin'.  And, even if it were, it isn't fair to bring up things that already happened, even if they did put you in a snit at the time.  Done is done--it was one time, it didn't mean anythin', it was the right thing to do at the time for Anomen, and I won't be made to feel guilty for it.  Now, we are very done with this rather uncomfortable line of talkin' for now, darlin'.~
 @1201 = ~So you say.  But Anomen and I are just fine--we're not agonizin' over it or fixatin' on it.  Look, Anomen has had a few blows, you know?  He needed to learn a few things an' I was feelin' generous.  It happened.  Once.  It was casual.  End of story.  Really, honey, mind your own beeswax and stop fussin'.  You don't have to take a casual attitude about it if you don't want to, but don't go harpin' on people who choose to do so.~
-@1202 = ~I'm sorry, Ducky—-if I'da known you were troubled by it I'da cleared things up for you sooner than this.  Vici an' I are just friends, darlin'.  I'm too damn smart to ever get mixed up with that dangerous little minx, an' I honestly don't even have the desire.  She an' I just like each other's spirit, that's all.  Don't let it trouble you any.~
+@1202 = ~I'm sorry, Ducky--if I'da known you were troubled by it I'da cleared things up for you sooner than this.  Vici an' I are just friends, darlin'.  I'm too damn smart to ever get mixed up with that dangerous little minx, an' I honestly don't even have the desire.  She an' I just like each other's spirit, that's all.  Don't let it trouble you any.~
 @1203 = ~All right.  Thanks for telling me, Dace.  I feel better now.~
 @1204 = ~I understand.  Not the way I generally act with my friends, but I trust you.~
 @1205 = ~Okay, if you promise... ~
@@ -1240,9 +1240,9 @@ And gather to me all blood and bone.~ [t#dac783]
 @1211 = ~(She looks down at where your hand is now joined to hers, then looks up with a deadpan expression.  Very slowly, she raises one eyebrow, then reaches over with her free hand and removes your own hand from hers as though moving a dead animal.)~
 @1212 = ~Didn't Gorion ever teach you to keep your hands to yourself, Ducky?~
 @1213 = ~(She rolls her eyes at you, pulling her hand away.)~
-@1214 = ~I'm sorry, but if you felt like skipping off, hand-in-hand, to pick some wildflowers and giggle over who we're going to marry when we grow up, you picked the wrong traveling companion.  Try somebody else... the clowns you travel with, I'm sure one of ‘em will take you up on it.~
+@1214 = ~I'm sorry, but if you felt like skipping off, hand-in-hand, to pick some wildflowers and giggle over who we're going to marry when we grow up, you picked the wrong traveling companion.  Try somebody else... the clowns you travel with, I'm sure one of 'em will take you up on it.~
 @1215 = ~Honestly, Ducky, you are such a chore sometimes.  I know I can be difficult, but at least I'm not overcome with love an' sunshine and grabbin' at the hands of innocent bystanders.  Now, let go and get back to strugglin' with your destiny, please.~
-@1216 = ~(She opens her mouth to say something, then shuts it again, shrugs, and gives your hand a quick squeeze before letting go.  She is smiling faintly—whether it is sarcastic or genuine, you can't quite tell.)~
+@1216 = ~(She opens her mouth to say something, then shuts it again, shrugs, and gives your hand a quick squeeze before letting go.  She is smiling faintly--whether it is sarcastic or genuine, you can't quite tell.)~
 @1217 = ~Don't go all sissy on me now, Ducky.~ [t#dac700]
 @1218 = ~(She moves her head away with an irritable jerk, shooting you a dark look.)~
 @1219 = ~What?  What do you want?  Yes, it's as thick as it looks.  Yes, it's as short as it looks.  Yes, it's supposed to be a mess.  No touch hair, understand, Duckster?~
@@ -1250,13 +1250,13 @@ And gather to me all blood and bone.~ [t#dac783]
 @1221 = ~Ugh, Ducky... we've been traveling for days.  Your hands are filthy and my hair is oily.  What could you possibly be doing, touching it?  Go paw at somebody else, please.~
 @1222 = ~(She sighs as you reach out to lay  your hand in her soft hair, but doesn't move away.)~
 @1223 = ~Bow-wow.  Come on, <CHAR>, I may be a Damn Fool, but I'm not your own personal puppy.  Are you done, now?~
-@1224 = ~(Dace is crouching down, digging something out of her pack.  You move behind her and place both of your hands on her scalp, burying your fingers in her hair, which you suspect she is more fond of and vain about than she lets on.   She stops what she is doing and allows you to run your fingers in little circles on her head for a moment before pulling away with a little “harrumph” noise, but she doesn't look entirely displeased as she goes back to her rummaging.)~
+@1224 = ~(Dace is crouching down, digging something out of her pack.  You move behind her and place both of your hands on her scalp, burying your fingers in her hair, which you suspect she is more fond of and vain about than she lets on.   She stops what she is doing and allows you to run your fingers in little circles on her head for a moment before pulling away with a little "harrumph" noise, but she doesn't look entirely displeased as she goes back to her rummaging.)~
 @1225 = ~See, this is why I need to start wearing a hat, or a helmet, or something.  To minimize random hair-touching incidents.  Or maybe an ioun stone with little razor blades embedded in it, moving really fast around my head... that'd settle your hash, Ducky... oh, yes-indeed-it-would.~ [t#dac701]
 @1226 = ~What in the blazes!  Unhand me, you cad, or feel the ferocious bite of Hellcat!  Or the ferocious poke of my finger, anyway... ~ [t#dac702]
 @1227 = ~Grabby critter, aren't you, Ducky?  Are we done being demonstrative comrades-in-arms, now?  Because I have something to do... over there.  Way over there.~
 @1228 = ~(She moves deftly out of reach of your arm, giving you a sharp look and pursing her lips.)~
 @1229 = ~Nuh-uh.  Not unless you're bleeding profusely as I help you stagger off somewhere to die.  That's when arms can go around Daces.  As that isn't the case, however, I suggest you pack it in.~
-@1230 = ~This is so impractical, Ducky, that I can hardly express it.  With my armour on, you can hardly be comfortable, reachin' round my shoulders like that, and we're both so laden with gear that we're not even really touching.  In fact, our respective bundles of gear are gettin' tangled and knocked around.  While I appreciate the “We're-All-Family-Here” companionly gesture, I'd really rather just walk in a nice, straight line on my own.~
+@1230 = ~This is so impractical, Ducky, that I can hardly express it.  With my armour on, you can hardly be comfortable, reachin' round my shoulders like that, and we're both so laden with gear that we're not even really touching.  In fact, our respective bundles of gear are gettin' tangled and knocked around.  While I appreciate the "We're-All-Family-Here" companionly gesture, I'd really rather just walk in a nice, straight line on my own.~
 @1231 = ~(She stiffens as you put your arm around her waist, and her eyes narrow, her voice going strangely flat.)~
 @1232 = ~Move that off me, <CHAR>.  Now.  Or I'll break it.~
 @1233 = ~(You wait for a moment when Dace has let her guard down and move towards her for a hug.  She raises one eyebrow and remains where she is, her face expressionless, her arms at her sides, as you hug her quickly and let go.)~
@@ -1274,7 +1274,7 @@ And gather to me all blood and bone.~ [t#dac783]
 @1245 = ~(Dace sees you coming from a mile away and claps her hands across herself, covering her sides.)~
 @1246 = ~Ducky, Ducky, Ducky... you forget... I'm the Grand Master of Kidney-Poking... and you're just a rank amateur.~
 @1247 = ~(Eager to get back at her for the kidney pokes she occasionally sends your way, you creep up behind Dace and poke her sides soundly.  However, though the timing was good, the circumstances weren't, and her leather armour deflects your pokes completely.  She adds insult to the injury by pretending to not even notice the attempt.)~
-@1248 = ~(You find it decidedly hypocritical that Dace preaches “Keep Your Hands To Yourself” but practices “Violently Poking Your Kidneys,” and you wait for the perfect moment to get back at her.  Her armour is off and her defenses are down, and you get a few good jabs in on each side before she squirms away, yelping slightly and covering her sides, a look of chagrin on her face.)~
+@1248 = ~(You find it decidedly hypocritical that Dace preaches "Keep Your Hands To Yourself" but practices "Violently Poking Your Kidneys," and you wait for the perfect moment to get back at her.  Her armour is off and her defenses are down, and you get a few good jabs in on each side before she squirms away, yelping slightly and covering her sides, a look of chagrin on her face.)~
 @1249 = ~Bastard!  Now you'll pay!  Well, not now, since you'd see it coming... but later... when you're least expecting it... you'll pay.~
 @1250 = ~(You take a rare opportunity to plant a sharp finger in Dace's side.  She growls in protest, but grins crookedly at you.)~
 @1251 = ~Hey... wait a second... that hurts!~
@@ -1282,40 +1282,40 @@ And gather to me all blood and bone.~ [t#dac783]
 @1253 = ~(Dace is distracted and you manage to plant a light kiss on her cheek.  Unfortunately, you get promptly slapped.)~
 @1254 = ~You're not an especially quick learner, Ducky, so I've decided I might have to use negative reinforcement.  Try that again without me expressin' some kind of interest in such shenanigans, which I doubt will ever happen, by the way, and you might get another slap.~
 @1255 = ~(You come up beside Dace as she is looking into the distance and kiss her cheek gently.  She lifts one hand to wave you away and frowns irritably.)~
-@1256 = ~Ducky, can't you keep these little bursts of euphoria to yourself sometimes?  I'm busy thinking just now, as you ought to be, seein' as you're in charge of this traveling fiasco you call a “party.”~
+@1256 = ~Ducky, can't you keep these little bursts of euphoria to yourself sometimes?  I'm busy thinking just now, as you ought to be, seein' as you're in charge of this traveling fiasco you call a "party."~
 @1257 = ~(Dace has let her guard down again and you move your face in close to her, kissing her cheek softly, then pulling back to smile at her.)~
 @1258 = ~Ducky, what in the Nine Hells was that for?  No, don't answer... I'm pretty sure I don't want to know.~
 @1259 = ~(Dace catches you out of the corner of her eye as you move in to kiss her cheek.  She brings both her hands up, catching your face between them, and squeezes a little.)~
-@1260 = ~Ducky, I hate to scold you like this, as I don't have a motherin' bone in my body, but you're really bein' quite a chore again.  When you try ‘an kiss girls who aren't expectin' it, you could have all sorts of terrible things happen.  They could slap you or knee you in the groin or knife you in the kidney or never speak to you again or even... ~ [t#dac705]
+@1260 = ~Ducky, I hate to scold you like this, as I don't have a motherin' bone in my body, but you're really bein' quite a chore again.  When you try 'an kiss girls who aren't expectin' it, you could have all sorts of terrible things happen.  They could slap you or knee you in the groin or knife you in the kidney or never speak to you again or even... ~ [t#dac705]
 @1261 = ~(She leans in and kisses you firmly on the lips, then pulls back and continues as though nothing has happened.)~
-@1262 = ~... give you more than you bargained for.  So, for your own safety, I suggest you give advance warnin' to said girls in the future and give ‘em a chance to tell you nicely that they'll kill you if you try it, all right?~ [t#dac706]
-@1263 = ~(Miss Dacian Jean Linton (“And Dace is a girls' name, dammit, so you keep your mouth shut!”) is an interesting woman, indeed.  Thus far, all you know about her is what she's told you and what you can see on your own—a human woman some fifteen-or-so years older than you, bounty hunter by trade, decidedly difficult to get along with, damnably talkative, oddly fanciful at times, and very fond of her sword, Hellcat.  Any other necessary information will just have to wait, as Dace isn't talking just now.)~
-@1264 = ~(You decide to ponder Dace again during an idle moment and turn to study her.  You've noticed by now that she's rather rough-looking—not badly aged or ugly, to be sure, but just as though she doesn't put much time or effort into looking pretty.  Her face is attractive in a strong way, and her eyes are a very dark brown, with little crinkled laugh-lines at their corners.  She gives off an air of outdoorsy-ness, of her country background, of cool pragmaticism, slight whimsy, and deep personal pride.  She catches you looking and raises one eyebrow archly, as she often does, that difficult, amused, sarcastically superior look stealing over her face for a moment before she looks away again.)~
+@1262 = ~... give you more than you bargained for.  So, for your own safety, I suggest you give advance warnin' to said girls in the future and give 'em a chance to tell you nicely that they'll kill you if you try it, all right?~ [t#dac706]
+@1263 = ~(Miss Dacian Jean Linton ("And Dace is a girls' name, dammit, so you keep your mouth shut!") is an interesting woman, indeed.  Thus far, all you know about her is what she's told you and what you can see on your own--a human woman some fifteen-or-so years older than you, bounty hunter by trade, decidedly difficult to get along with, damnably talkative, oddly fanciful at times, and very fond of her sword, Hellcat.  Any other necessary information will just have to wait, as Dace isn't talking just now.)~
+@1264 = ~(You decide to ponder Dace again during an idle moment and turn to study her.  You've noticed by now that she's rather rough-looking--not badly aged or ugly, to be sure, but just as though she doesn't put much time or effort into looking pretty.  Her face is attractive in a strong way, and her eyes are a very dark brown, with little crinkled laugh-lines at their corners.  She gives off an air of outdoorsy-ness, of her country background, of cool pragmaticism, slight whimsy, and deep personal pride.  She catches you looking and raises one eyebrow archly, as she often does, that difficult, amused, sarcastically superior look stealing over her face for a moment before she looks away again.)~
 @1265 = ~(Out of the corner of your eye, you watch Dace running her hands briefly through her hair.  She keeps it very short out of typical Daceian practicality but seems to still be proud of its soft, dark thickness.  An unremarkable brown, it does have a healthy luster and would probably be very striking if she grew it out.  Somehow, though, you get the feeling that it wouldn't quite suit her personality.  When she is satisfied with the slight mussing she has given her hair, she moves back into formation.)~
 @1266 = ~(Glancing over at Dace, you let your eyes rest on her for a moment.  She's in excellent shape and is slight, but wiry, her figure less curvy and pronounced than that of the average woman.  Her stride is always purposeful and her guard is usually up, although she's becoming more comfortable with you and your other companions.  So far she has proved herself to be pragmatic and utilitarian in combat and decision-making, able to squelch her bouts of ridiculousness long enough to make the occasional good suggestion and handy enough with both a set of lockpicks when needed and a blade or dart in combat.)~
 @1267 = ~(You pause to watch Dace as you call everyone to stop for a brief rest.  She is frowning slightly and lifting her right leg to flex her knee.  You open your mouth to ask if she's all right, but stop yourself, recalling Dace's cool self-depreciation concerning her age and the implicit pride behind it.  Still, she's caught you looking, and she flashes you a brief, bleak grin.)~
-@1268 = ~Yeah, the old lady has a bad knee, Ducky.  Doesn't slow me down much, though... got it fallin' off a horse ‘bout ten years ago... ten years ago... you woulda been... awww, damn, best not to think about that.  You're... how old... hrm... lessee.  I'm a full fourteen years older than you, did you know that?  Ugh.  Definitely best not to think about that.  Let's keep movin', all right?~
+@1268 = ~Yeah, the old lady has a bad knee, Ducky.  Doesn't slow me down much, though... got it fallin' off a horse 'bout ten years ago... ten years ago... you woulda been... awww, damn, best not to think about that.  You're... how old... hrm... lessee.  I'm a full fourteen years older than you, did you know that?  Ugh.  Definitely best not to think about that.  Let's keep movin', all right?~
 @1269 = ~Can't complain, Ducky... and if I could, it wouldn't help, anyway.~
 @1270 = ~Just enjoyin' the delightful cavalcade of merriment that is your life, darlin'.  Why, did I look less-than-chipper for a minute there?~
 @1271 = ~Mrf.  I dunno, Ducky.  Feelin' a little down today, actually.  Don't feel like talking about it, though.~
 @1272 = ~Absolutely burstin' with boundless enthusiasam.~ [t#dac709]
 @1273 = ~Fine.  I'll tell you when I'm not, Ducky, and loudly.  Now, less yakkin' and more marchin'.~
-@1274 = ~Oh, for cryin' out... Ducky, honey, sugar, darlin'... you're draggin' me over all of known creation, chasin' after crazy mages and little not-quite-sisters, with your  pack of clinging, needy “allies” and your even bigger pack of ravening, colourful, deadly enemies following all the way.  So, Ducky, honey, sugar, darlin'... let's just say that I'm As Dandy As Can Be and leave it at that, shall we?~
+@1274 = ~Oh, for cryin' out... Ducky, honey, sugar, darlin'... you're draggin' me over all of known creation, chasin' after crazy mages and little not-quite-sisters, with your  pack of clinging, needy "allies" and your even bigger pack of ravening, colourful, deadly enemies following all the way.  So, Ducky, honey, sugar, darlin'... let's just say that I'm As Dandy As Can Be and leave it at that, shall we?~
 @1275 = ~Doin' all right, actually, Ducky-Of-Mine.  Discoverin' that I'm actually pretty damned glad to be with you, all things considered.  Fancy that.~
 @1276 = ~(You lean towards Dace and give her a quick kiss on the cheek.  She crosses her eyes slightly, making a face, but grins crookedly at you before moving away.)~
 @1277 = ~(You take a moment to kiss Dace gently on the lips as she turns to speak to you.  She smiles at you, and it seems more genuine and warm than her usual crooked grin.)~
 @1278 = ~Why, thank you, Ducky.~ [t#dac711]
 @1279 = ~(As you move to kiss Dace on the cheek, she ducks away.)~
-@1280 = ~Tsk, tsk, Ducky.  Didn't we talk before ‘bout kissin' girls without warnin'?  Never mind, I'll take it out on you later.~
+@1280 = ~Tsk, tsk, Ducky.  Didn't we talk before 'bout kissin' girls without warnin'?  Never mind, I'll take it out on you later.~
 @1281 = ~(Dace is stopped near you, running her hands through her hair as everyone takes a moment to rest.  You kiss her cheek quickly and she turns her head in a flash, returning the kiss on your right cheek.)~
 @1282 = ~There, now, that's enough of that nonsense for now, m'Duck.~ [t#dac712]
 @1283 = ~(You drop a quick kiss on the corner of Dace's mouth and she frowns at you, turning her head away irritably.)~
 @1284 = ~Blecch, <CHARNAME>, none of that slop right now, all right?  Save it for bedtime... frankly, out of nowhere like that, it smacks uncomfortably of romantic nonsense.~
 @1285 = ~(She returns the kiss with equal passion, burying her hands in your hair and clenching her fists, pulling back a little on your head as your kiss continues.  As you finally pull away, she catches your lower lip in her teeth and bites down a little harder than is polite, grinning wickedly at you as she moves away.)~
 @1286 = ~(Your kiss surprises Dace, and she makes a little muffled squeak in the back of her throat as you part her lips insistently with yours.  She recovers from her surprise quickly, though, and participates enthusiastically in the lengthy kiss, wrapping her arms around you and pulling herself against you.  You break away after a moment, both of you pleasantly dazed.)~
-@1287 = ~Mmmmrrrfff...oh, Ducky.  Forget this Bhaalspawn nonsense... let's just stand here and do that ‘til the end of time.~
+@1287 = ~Mmmmrrrfff...oh, Ducky.  Forget this Bhaalspawn nonsense... let's just stand here and do that 'til the end of time.~
 @1288 = ~(As you pull Dace into a passionate embrace, she returns your kiss while searching for your hands with hers.  Once she has captured them both and locked her fingers through yours, she pulls your joined arms stiffly down to your sides and digs her nails into the backs of your hands, very hard.  When you part, you're both breathing hard and the backs of your hands show the small, red, half-moon marks of her nails.  She looks at you dangerously for a moment, then shakes he head, grins, and wanders away.)~
-@1289 = ~Uhhhh... ... Ducky... stop that right now or call us to a halt for today, ‘cuz I damn well can't think with you doin' that.~ [t#dac714]
+@1289 = ~Uhhhh... ... Ducky... stop that right now or call us to a halt for today, 'cuz I damn well can't think with you doin' that.~ [t#dac714]
 @1290 = ~(You wrap your arms around Dace and move in to kiss her soundly, but she prevents this by sticking her tongue halfway out of her mouth at you.)~
 @1291 = ~Ha!  Knew that was weird enough to stop even you, Ducky.  Not right now, all right?~
 @1292 = ~Nnnnnn... Duuuucky... !~
@@ -1343,14 +1343,14 @@ And gather to me all blood and bone.~ [t#dac783]
 @1314 = ~Sorry, Duck.  Just thinkin'.  Let's move on, shall we?~
 @1315 = ~(You stroke Dace's cheek with the back of your hand and she smiles at you almost sadly, shaking her head a little.)~
 @1316 = ~Don't get to like me too much, darlin'... it ain't healthy.~ [t#dac720]
-@1317 = ~(You lay your fingers against Dace's cheek and she leans into your palm, closing her eyes with a flutter of dark, short lashes.  For a moment, her expression is strange—softer than usual, and faintly regretful.  She opens her eyes quickly, though, half-smiles, and moves away.)~
+@1317 = ~(You lay your fingers against Dace's cheek and she leans into your palm, closing her eyes with a flutter of dark, short lashes.  For a moment, her expression is strange--softer than usual, and faintly regretful.  She opens her eyes quickly, though, half-smiles, and moves away.)~
 @1318 = ~(You reach out to touch Dace's face but she sees the gesture coming and pulls away, not meeting your eyes as she moves some distance away, taking up a new place in formation as the group walks on.)~
 @1319 = ~(You turn to Dace and she looks back at you.  She flashes you a brief, fierce smile, almost a baring of teeth.)~
 @1320 = ~See somethin' you like, Ducky?~ [t#dac721]
 @1321 = ~(You turn to Dace and find that she is already looking at you, her expression oddly sad.  She half-smiles as your eyes meet, shrugging a little.)~
 @1322 = ~Sorry, darlin'... I was just thinkin' about how nothin' good ever seems to last.~ [t#dac722]
-@1323 = ~(Dace is busy with a crossbow as you focus your attention on her, giving you an opportunity to consider her surreptitiously.  Things are strangely ambiguous between the two of you—despite being physically intimate and sharing the burdens of your travels, Dace often acts strangely to you.  She seems to run hot and cold, sometimes seeming almost desperately grateful for your affection and other times seeming to resent it.  She says strange things, too, sometimes, be it the occasional threat or some blackly cynical proclimation on the likely bleakness of your mutual future.  All that comes of studying her and thinking on this is further confusion, and you turn away.~
-@1324 = ~(You look over at Dace to find her verbally baiting another one of your traveling companions, as she so often does.  Her face is very grave and her slightly lilting contralto voice is perfectly serious, but the subject matter being “discussed” is patently ridiculous, as usual, and her dark eyes are practically dancing with slightly malicious glee as she continues her tireless onslaught. She catches you looking and flashes you a grin before turning back to the matter at hand.)~
+@1323 = ~(Dace is busy with a crossbow as you focus your attention on her, giving you an opportunity to consider her surreptitiously.  Things are strangely ambiguous between the two of you--despite being physically intimate and sharing the burdens of your travels, Dace often acts strangely to you.  She seems to run hot and cold, sometimes seeming almost desperately grateful for your affection and other times seeming to resent it.  She says strange things, too, sometimes, be it the occasional threat or some blackly cynical proclimation on the likely bleakness of your mutual future.  All that comes of studying her and thinking on this is further confusion, and you turn away.~
+@1324 = ~(You look over at Dace to find her verbally baiting another one of your traveling companions, as she so often does.  Her face is very grave and her slightly lilting contralto voice is perfectly serious, but the subject matter being "discussed" is patently ridiculous, as usual, and her dark eyes are practically dancing with slightly malicious glee as she continues her tireless onslaught. She catches you looking and flashes you a grin before turning back to the matter at hand.)~
 @1325 = ~(Dace is idly humming, as she occasionally does.  When she sees you looking at her, she winks and raises her voice slightly, singing a few sarcastic bars for your benefit.
 A few more days for to tote the weary load, No matter 'twill never be light.)~
 @1326 = ~(You reach over and fondly ruffle Dace's short, dark hair, and she grins at you, sticking her tongue out for a moment before composing her face again.)~
@@ -1387,7 +1387,7 @@ A few more days for to tote the weary load, No matter 'twill never be light.)~
 @1357 = ~Not just now, Ducky.  Better leave me be for a while.~
 @1358 = ~Sure as shootin', <CHARNAME>.  Don't believe me if I ever tell you otherwise... I just get into bad moods, you know?~
 @1359 = ~Oh, glad enough that it doesn't worry me any.  Nah, I'm kiddin', Ducky.  You make me gladder every day, truth be told.  But don't go tellin' that truth around, all right?  I have a reputation to think about... ~ [t#dac735]
-@1360 = ~‘Course I am.  I like you, Ducky.  Like you a helluva lot.~
+@1360 = ~'Course I am.  I like you, Ducky.  Like you a helluva lot.~
 @1361 = ~Mmmm... .maybe.  Ask me again later, though... we'll see how I'm feelin' then.~
 @1362 = ~Can't be nearly as good as the idea I just had, Ducky.  Tell you what, we'll have a contest.  We'll try both... then, the loser has to do whatever the winner came up with again.~ [t#dac736]
 @1363 = ~Well, I'll be damned if that doesn't make this sloggin' along just a little easier, darlin'.  Nice to have somethin' so mysteriously pleasant to ponder for the rest of the day.~
@@ -1408,7 +1408,7 @@ A few more days for to tote the weary load, No matter 'twill never be light.)~
 @2008    = ~Sorry, Linton.  Maybe I'll see you around.~
 @2009    = ~Dace, forget I said anything.  I don't want to be parted from you, either.~
 @2010   = ~I'm sure as hell not gonna hang around waitin' for you, you--ooo, you're makin' me mad.   We're through!  I've been such a Damn Fool!  An' it's worse because I know I'll miss you, too.  Dammit!~ [t#dac64]
-@2011   = ~You had me nervous there for a minute, Ducky.  Don't keep yankin' a girl's chain like that, ‘kay?~ [t#dac65]
+@2011   = ~You had me nervous there for a minute, Ducky.  Don't keep yankin' a girl's chain like that, 'kay?~ [t#dac65]
 @2012   = ~Ducky, no!  Come on!  I was just startin' to have fun!~ [t#dac60]
 @2013   = ~Only for now, Dace.  We'll maybe join up again later.~
 @2014   = ~Fine, Linton.  Stick around.~
