@@ -5,8 +5,10 @@
 BACKUP ~weidu_external/dace/backup~
 //AUTHOR ~Tess Grey (tess.grey@gmail.com) & K'aeloree (kae@spellholdstudios.net)~
 SUPPORT ~https://github.com/Spellhold-Studios/Dace-NPC~
-VERSION ~v5~
-README ~dace/dace_readme.html~
+VERSION ~v5.1~
+
+README ~dace/translations/%LANGUAGE%/dace_readme.html~
+       ~dace/dace_readme.html~
 
 ALWAYS
   ACTION_IF (!VARIABLE_IS_SET t#_always_done) BEGIN // run only once per install

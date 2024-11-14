@@ -4,7 +4,7 @@
 [![Views](https://badges.pufler.dev/visits/Spellhold-Studios/Dace-NPC?label=views&color=%2392403a)](https://github.com/Spellhold-Studios/Dace-NPC/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%a0%20macOS%20%a0%20Linux%20%a0%20Project%20Infinity-%2392403a)](https://github.com/Spellhold-Studios/Dace-NPC/releases)
 [![Games](https://img.shields.io/badge/games-BG2%20%a0%20BGT%20%a0%20BG2%3AEE%20%a0%20EET-%2392403a)](https://github.com/Spellhold-Studios/Dace-NPC/releases)
-[![Language](https://img.shields.io/badge/language-en-%2392403a)](https://github.com/Spellhold-Studios/Dace-NPC/releases)
+[![Language](https://img.shields.io/badge/language-en%20%a0%20ru-%2392403a)](https://github.com/Spellhold-Studios/Dace-NPC/releases)
 
 <!--
 Badges white space separator: %20%a0%20
@@ -98,6 +98,7 @@ Dace is a slight, wiry woman with short brown hair and clothing of a decidedly n
 **Contributors**
 
 - jastey &nbsp;&ndash;&nbsp; coding and maintenance (versions 3.0–5.0)
+- skellytz &nbsp;&ndash;&nbsp; maintenance (version 5.1)
 - Lady Lesatho &nbsp;&ndash;&nbsp; original portrait
 - Ilmatar &nbsp;&ndash;&nbsp; alternative portrait
 - -AkumA+ &nbsp;&ndash;&nbsp; audio mastering
@@ -106,6 +107,10 @@ Dace is a slight, wiry woman with short brown hair and clothing of a decidedly n
 
 - Arconian03
 - Oracle
+
+**Translators**
+
+- Prostln &nbsp;&ndash;&nbsp; Russian
 
 **Music**
 
