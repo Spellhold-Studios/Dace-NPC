@@ -9,40 +9,43 @@ VERSION ~v5~
 README ~dace/dace_readme.html~
 
 ALWAYS
-  ACTION_IF GAME_IS ~eet~ BEGIN
-    OUTER_SET bg2_chapter = 12
-  END ELSE BEGIN
-    OUTER_SET bg2_chapter = 0
-  END
-  OUTER_FOR (i=1; i<=10; i=i+1) BEGIN
-    OUTER_SET bg2_chapter = bg2_chapter + 1
-    OUTER_SPRINT name_source ~bg2_chapter_%i%~
-    OUTER_SET EVAL ~%name_source%~ = bg2_chapter
-  END
+  ACTION_IF (!VARIABLE_IS_SET t#_always_done) BEGIN // run only once per install
+    // EET compatibility
+    ACTION_IF GAME_IS ~eet~ BEGIN
+      OUTER_SET bg2_chapter = 12
+    END ELSE BEGIN
+      OUTER_SET bg2_chapter = 0
+    END
+    OUTER_FOR (i=1; i<=10; i=i+1) BEGIN
+      OUTER_SET bg2_chapter = bg2_chapter + 1
+      OUTER_SPRINT name_source ~bg2_chapter_%i%~
+      OUTER_SET EVAL ~%name_source%~ = bg2_chapter
+    END
 
-  // convert strings from UTF-8 for the original games
-  ACTION_DEFINE_ARRAY t#reload BEGIN setup END
+    // convert strings from UTF-8 for original games
+    ACTION_DEFINE_ARRAY t#reload BEGIN setup END
 
-  LAF HANDLE_CHARSETS
-    INT_VAR
-      infer_charsets    = 1
-      from_utf8         = 1
-    STR_VAR
-      default_language  = ~english~
-      tra_path          = ~dace/translations~
-      out_path          = ~weidu_external/dace/translations~
-      reload_array      = ~t#reload~
-  END
+    LAF HANDLE_CHARSETS
+      INT_VAR
+        infer_charsets    = 1
+        from_utf8         = 1
+      STR_VAR
+        default_language  = ~english~
+        tra_path          = ~dace/translations~
+        out_path          = ~weidu_external/dace/translations~
+        reload_array      = ~t#reload~
+    END
 
-  // set path for AUTO_TRA
-  ACTION_IF (GAME_IS ~bg2ee eet~) BEGIN
-    OUTER_TEXT_SPRINT tra_location ~dace/translations~
-  END ELSE BEGIN
-    OUTER_TEXT_SPRINT tra_location ~weidu_external/dace/translations~
+    ACTION_IF (GAME_IS ~bg2ee eet~) BEGIN
+      OUTER_TEXT_SPRINT tra_location ~dace/translations~
+    END ELSE BEGIN
+      OUTER_TEXT_SPRINT tra_location ~weidu_external/dace/translations~
+    END
+
+    OUTER_SET t#_always_done = 1
   END
 END
 
-// Translations
 AUTO_TRA ~%tra_location%/%s~
 
 LANGUAGE ~English~
