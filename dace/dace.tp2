@@ -63,7 +63,7 @@ LANGUAGE ~Russian (translation by Prostln)~
 // Components
 // --------------------------------------------
 // Component setup
-BEGIN @1
+BEGIN @1 LABEL ~t#-Dace-Main~
 REQUIRE_PREDICATE GAME_IS ~bg2ee tob bgt eet~ @65
 
   // Adding CD_STATE_NOTVALID
@@ -429,7 +429,7 @@ APPEND ~pdialog.2da~ ~T#DACE T#DACEP T#DACEJ T#DACED T#DAC25P T#DAC25J T#DAC25D 
   
   
 // Alternate portrait by Ilmatar
-BEGIN @64
+BEGIN @64 LABEL ~t#-Dace-Alt-Portrait~
 REQUIRE_COMPONENT ~dace.tp2~ 0 @66
 
 ACTION_IF GAME_IS ~bg2ee eet~ BEGIN
