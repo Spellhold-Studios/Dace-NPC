@@ -95,7 +95,7 @@ Dace is a slight, wiry woman with short brown hair and clothing of a decidedly n
 
 - K'aeloree
 
-**Contributors**
+**Contributors**  
 
 - jastey &nbsp;&ndash;&nbsp; coding and maintenance (versions 3.0–5.0)
 - skellytz &nbsp;&ndash;&nbsp; maintenance (version 5.1)
@@ -103,23 +103,23 @@ Dace is a slight, wiry woman with short brown hair and clothing of a decidedly n
 - Ilmatar &nbsp;&ndash;&nbsp; alternative portrait
 - -AkumA+ &nbsp;&ndash;&nbsp; audio mastering
 
-**Testers**
+**Testers**  
 
 - Arconian03
 - Oracle
 
-**Translators**
-
-- Prostln &nbsp;&ndash;&nbsp; Russian
-
-**Music**
+**Music**  
 
 - "Lone Pine" by Gayle Ellett & Todd Montgomery
 - "Fall to Earth" by Jeremy Sherman
 
     (Both of these are royalty-free and available for purchase online in their entirety.)
 
-**With thanks to**
+**Translators**  
+
+- **Russian**:&nbsp; Prostln
+
+**With thanks to**  
 
 - Celissa, who was a brilliant editor and advisor.
 - K'aeloree, who did all of the hard work and really made Dace happen.
