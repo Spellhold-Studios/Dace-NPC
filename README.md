@@ -67,7 +67,7 @@ Dace is a slight, wiry woman with short brown hair and clothing of a decidedly n
 </picture>
 
 |  Ability  | Score |
-| :-------- | :---- |
+| :-------: | :---: |
 | STR       | 13    |
 | DEX       | 17    |
 | CON       | 15    |
