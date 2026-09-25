@@ -7,11 +7,10 @@ BACKUP ~weidu_external/dace/backup~
 SUPPORT ~https://github.com/Spellhold-Studios/Dace-NPC~
 VERSION ~v5.1~
 
-README ~dace/translations/%LANGUAGE%/dace_readme.html~
+README ~dace/languages/%LANGUAGE%/dace_readme.html~
        ~dace/dace_readme.html~
 
 ALWAYS
-  ACTION_IF (!VARIABLE_IS_SET t#_always_done) BEGIN // run only once per install
     // EET compatibility
     ACTION_IF GAME_IS ~eet~ BEGIN
       OUTER_SET bg2_chapter = 12
@@ -24,40 +23,48 @@ ALWAYS
       OUTER_SET EVAL ~%name_source%~ = bg2_chapter
     END
 
-    // convert strings from UTF-8 for original games
-    ACTION_DEFINE_ARRAY t#reload BEGIN setup END
 
-    LAF HANDLE_CHARSETS
-      INT_VAR
-        infer_charsets    = 1
-        from_utf8         = 1
-      STR_VAR
-        default_language  = ~english~
-        tra_path          = ~dace/translations~
-        out_path          = ~weidu_external/dace/translations~
-        reload_array      = ~t#reload~
-    END
+	//Copies tra files into the autotra-folder (to leave the originals untouched)
+	DEFINE_ACTION_FUNCTION autotra_workaround BEGIN
+	COPY ~dace/Languages/english~				~weidu_external/dace/Languages/autotra/%LANGUAGE%~
+	COPY ~dace/Languages/%LANGUAGE%~					~weidu_external/dace/Languages/autotra/%LANGUAGE%~
+	END
 
-    ACTION_IF (GAME_IS ~bg2ee eet~) BEGIN
-      OUTER_TEXT_SPRINT tra_location ~dace/translations~
-    END ELSE BEGIN
-      OUTER_TEXT_SPRINT tra_location ~weidu_external/dace/translations~
-    END
+	LAF autotra_workaround END
 
-    OUTER_SET t#_always_done = 1
-  END
+	ACTION_IF NOT GAME_IS ~bg2ee eet~ BEGIN
+//  ACTION_DEFINE_ARRAY t#_noconvert BEGIN END
+
+		ACTION_DEFINE_ARRAY t#_reload BEGIN setup END
+
+			LAF HANDLE_CHARSETS
+				INT_VAR
+				infer_charsets = 1
+				from_utf8         = 1
+				STR_VAR
+				tra_path = EVAL ~weidu_external/dace/Languages/autotra~
+				out_path = EVAL ~weidu_external/dace/Languages/autotra~
+				iconv_path = ~dace/Languages/autotra/iconv~
+				// noconvert_array = t#_noconvert
+				reload_array = t#_reload
+			END
+	END
+
+      OUTER_TEXT_SPRINT tra_location ~weidu_external/dace/Languages/autotra~
+
+
 END
 
 AUTO_TRA ~%tra_location%/%s~
 
 LANGUAGE ~English~
          ~english~
-         ~dace/translations/english/setup.tra~
+         ~dace/languages/english/setup.tra~
 
 LANGUAGE ~Russian (translation by Prostln)~
          ~russian~
-         ~dace/translations/english/setup.tra~
-         ~dace/translations/russian/setup.tra~
+         ~dace/languages/english/setup.tra~
+         ~dace/languages/russian/setup.tra~
 
 // --------------------------------------------
 // Components
@@ -71,7 +78,7 @@ REQUIRE_PREDICATE GAME_IS ~bg2ee tob bgt eet~ @65
     ~0x80101FEF CD_STATE_NOTVALID~
     UNLESS ~CD_STATE_NOTVALID~
 
-ACTION_IF (GAME_IS ~bgt tob~ AND NOT FILE_EXISTS_IN_GAME ~cdbehbla.pro~) THEN BEGIN //makes sure the fixpack isn't already installed     
+ACTION_IF (GAME_IS ~bgt tob~ AND NOT FILE_EXISTS_IN_GAME ~cdbehbla.pro~) THEN BEGIN //makes sure the fixpack isn't already installed
   // Fixing Imoen's dialogue file
   ACTION_IF FILE_EXISTS_IN_GAME ~mel01.cre~ THEN BEGIN
     COPY_EXISTING ~interdia.2da~ ~override~
@@ -91,8 +98,8 @@ END
 COMPILE EVALUATE_BUFFER ~dace/dialogue/t#dace.d~
 COMPILE ~dace/dialogue/bt#dace.d~
 COMPILE EVALUATE_BUFFER ~dace/dialogue/t#dacej.d~
-COMPILE ~dace/dialogue/t#dacep.d~ 
-  USING ~dace/translations/%LANGUAGE%/t#dacej.tra~
+COMPILE ~dace/dialogue/t#dacep.d~
+  USING ~%tra_location%/%s/t#dacej.tra~
 COMPILE ~dace/dialogue/bt#dac25.d~
 COMPILE EVALUATE_BUFFER ~dace/dialogue/t#dac25j.d~
 COMPILE ~dace/dialogue/t#dac25.d~
@@ -127,7 +134,7 @@ ACTION_IF GAME_IS ~eet~ THEN BEGIN
 END
 
 // Journals (BGII:EE)
-ADD_JOURNAL EXISTING TITLE (#74337) @1031 @1038 @2035 USING ~dace/translations/%LANGUAGE%/t#dacej.tra~
+ADD_JOURNAL EXISTING TITLE (#74337) @1031 @1038 @2035 USING ~%tra_location%/%s/t#dacej.tra~
 
 // Images
 ACTION_IF GAME_IS ~bg2ee eet~ BEGIN
@@ -334,7 +341,7 @@ COPY ~dace/creatures/t#dace14.cre~ ~override/t#dace25.cre~
   WRITE_EVALUATED_ASCII DIALOG          ~t#dac25~ #8
   WRITE_EVALUATED_ASCII DEATHVAR        ~t#dace~ #32
   WRITE_EVALUATED_ASCII SCRIPT_OVERRIDE ~t#dac25~ #8
-  
+
 
 // Vampire!Dace
 COPY ~dace/creatures/t#dacvmp.cre~ ~override~
@@ -365,19 +372,19 @@ COPY ~dace/items/t#dacbdy.itm~ ~override~
  SAY NAME1 @48
  SAY NAME2 @48
  SAY DESC @49
- 
+
 COPY ~dace/items/t#dacbt.itm~ ~override~
   SAY NAME1 @50
   SAY NAME2 @50
   SAY DESC @51
   SAY UNIDENTIFIED_DESC @51
-  
+
 COPY ~dace/items/t#dhlcat.itm~ ~override~
   SAY NAME1 @52
   SAY NAME2 @52
   SAY DESC @53
   SAY UNIDENTIFIED_DESC @53
-  
+
 COPY ~dace/items/t#dhlsin.itm~ ~override~
   SAY NAME1 @54
   SAY NAME2 @54
@@ -413,9 +420,9 @@ COPY ~dace/epilogues/t#dace.2da~ ~override/t#dace8.2da~
 
 // Audio
 COPY ~dace/audio/t#blank.mus~ ~music~
-    
+
 COPY_EXISTING ~songlist.2da~ ~override~
-  SET_2DA_ENTRY 0 2 3 ~t#blank.mus~ 
+  SET_2DA_ENTRY 0 2 3 ~t#blank.mus~
 
 LAF HANDLE_AUDIO END
 
@@ -426,8 +433,8 @@ APPEND ~interdia.2da~ ~T#DACE BT#DACE BT#DAC25~
 
 APPEND ~pdialog.2da~ ~T#DACE T#DACEP T#DACEJ T#DACED T#DAC25P T#DAC25J T#DAC25D T#DAC25~
   UNLESS ~T#DACE~
-  
-  
+
+
 // Alternate portrait by Ilmatar
 BEGIN @64 LABEL ~t#-Dace-Alt-Portrait~
 REQUIRE_COMPONENT ~dace.tp2~ 0 @66

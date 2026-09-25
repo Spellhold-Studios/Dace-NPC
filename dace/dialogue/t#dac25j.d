@@ -920,42 +920,42 @@ APPEND T#DAC25J
 
 // Watchers Keep: mind flayer area
 IF ~Global("T#DaceJWFlay","GLOBAL",1)~ T#DaceJWFlay
-  SAY ~Oh, boy, more brain-suckers!  Better send Ducky in alone.  They'll ignore you, as there's nothin' in your head to suck.~[t#dac972]
+  SAY @290 /* ~Oh, boy, more brain-suckers!  Better send Ducky in alone.  They'll ignore you, as there's nothin' in your head to suck.~[t#dac972] */
   IF ~~ DO ~IncrementGlobal("T#DaceJWFlay","GLOBAL",1)~ EXIT
 END
 
 
 //  Watchers Keep: lich area
 IF ~Global("T#DaceJWLich","GLOBAL",1)~ T#DaceJWLich
-  SAY ~Oh.  A lich.  How delightful.  It's been about two days since we fought a lich, after all.~[t#dac972]
+  SAY @291 /* ~Oh.  A lich.  How delightful.  It's been about two days since we fought a lich, after all.~[t#dac972] */
   IF ~~ DO ~IncrementGlobal("T#DaceJWLich","GLOBAL",1)~ EXIT
 END
 
 
 //sendai enclave spider  passage CHANGE CODE AREA TRIGGER
 IF ~Global("T#DaceJToBSpiders","GLOBAL",1)~ T#DAC25JToBLich
-  SAY ~We definitely should have picked the other door.~[t#dac972]
+  SAY @292 /* ~We definitely should have picked the other door.~[t#dac972] */
   IF ~~ DO ~IncrementGlobal("T#DaceJToBSpiders","GLOBAL",1) RealSetGlobalTimer("T#DaceJToBSpidersTimer","GLOBAL",30) Panic()~ EXIT //(Dace panicks completely.  That's a helluva lot of spiders)
 END
 
 
 //sendai lich
 IF ~Global("T#DaceJToBLich","GLOBAL",1)~ T#DAC25JToBLich
-  SAY ~This is lich--what?  Seventy-eight?  A hundred and two?  I lost count.  Or is that dragons I'm thinking of?  What, I'm sorry, am I bein' flippant again?  You have to admit, we do seem to meet more than our fair share of liches, dolls.   An' dragons, for that matter.~[t#dac972]
+  SAY @293 /* ~This is lich--what?  Seventy-eight?  A hundred and two?  I lost count.  Or is that dragons I'm thinking of?  What, I'm sorry, am I bein' flippant again?  You have to admit, we do seem to meet more than our fair share of liches, dolls.   An' dragons, for that matter.~[t#dac972] */
   IF ~~ DO ~IncrementGlobal("T#DaceJToBLich","GLOBAL",1)~ EXIT
 END
 
 
 //sendai and statues
 IF ~Global("T#DaceJToBSendaiStatues","GLOBAL",1)~ T#DAC25JToBLich
-  SAY ~Isn't she even slightly alarmed by the fact that we got this far?  Do all Bhaalspawn tend towards mild craziness?  I'm startin' to reconsider this committment stuff, Duckster.~[t#dac972]
+  SAY @294 /* ~Isn't she even slightly alarmed by the fact that we got this far?  Do all Bhaalspawn tend towards mild craziness?  I'm startin' to reconsider this committment stuff, Duckster.~[t#dac972] */
   IF ~~ DO ~IncrementGlobal("T#DaceJToBSendaiStatues","GLOBAL",1)~ EXIT
 END
 
 
 //eye room in Ab's lair CHANGE CODE--AREA TRIGGERED
 IF ~Global("T#DaceJToBEyes","GLOBAL",1)~ T#DAC25JToBLich
-  SAY ~This is, ahh, odd.  Hey, Ducky, did you see that?  Didja see it?  See?  Get it?  Yeah, don't gimme that look.  I'm havin' a bad day.  A lot of bad days, actually.  Let me have the occasional truly terrible floatin' eyeball joke, please.~[t#dac972]
+  SAY @295 /* ~This is, ahh, odd.  Hey, Ducky, did you see that?  Didja see it?  See?  Get it?  Yeah, don't gimme that look.  I'm havin' a bad day.  A lot of bad days, actually.  Let me have the occasional truly terrible floatin' eyeball joke, please.~[t#dac972] */
   IF ~~ DO ~IncrementGlobal("T#DaceJToBEyes","GLOBAL",1)~ EXIT
 END
 
@@ -1030,7 +1030,7 @@ END
 // ---------------------------------------
 // Romantic flirts
 IF ~Global("T#DaceToBTimeForFlirt","GLOBAL",1) Global("T#DaceRomanceActive","GLOBAL",2)~ T#DaceInit_ToBFlirts
-  SAY ~(Dace moves to your side leans against you slightly to get your attention, smiling at you in a calm, warm manner that is very unlike the crooked, brittle grin she used to shoot you. The love that the two of you share has matured into a comfortable, passionate, steady relationship.  Her eyes are still cheerfully wicked, though, and she still has a sharp kidney-poking finger--facts you're careful to keep in mind as you give her your full attention.)~[t#dac972]
+  SAY @314 /* ~(Dace moves to your side leans against you slightly to get your attention, smiling at you in a calm, warm manner that is very unlike the crooked, brittle grin she used to shoot you. The love that the two of you share has matured into a comfortable, passionate, steady relationship.  Her eyes are still cheerfully wicked, though, and she still has a sharp kidney-poking finger--facts you're careful to keep in mind as you give her your full attention.)~[t#dac972] */
   IF ~RandomNum(10,1)~ DO ~SetGlobal("T#DaceToBTimeForFlirt","GLOBAL",0) RealSetGlobalTimer("T#DaceToBFlirtTimer","GLOBAL",1800)~ + T#DaceInit_ToBFlirts1
   IF ~RandomNum(10,2)~ DO ~SetGlobal("T#DaceToBTimeForFlirt","GLOBAL",0) RealSetGlobalTimer("T#DaceToBFlirtTimer","GLOBAL",1800)~ + T#DaceInit_ToBFlirts2
   IF ~RandomNum(10,3)~ DO ~SetGlobal("T#DaceToBTimeForFlirt","GLOBAL",0) RealSetGlobalTimer("T#DaceToBFlirtTimer","GLOBAL",1800)~ + T#DaceInit_ToBFlirts3
@@ -1044,7 +1044,7 @@ IF ~Global("T#DaceToBTimeForFlirt","GLOBAL",1) Global("T#DaceRomanceActive","GLO
 END
 
 IF ~~ T#DaceInit_ToBFlirts1
-  SAY ~Love you, darlin'.  Just didn't want you to forget, what with the killin' and teleportin' and extra-planar goings-on.  And... well, I'm here for you.  Bah, anyway, listen to me, dissolvin' at your feet. That's all I wanted to say.~[t#dac798]
+  SAY @315 /* ~Love you, darlin'.  Just didn't want you to forget, what with the killin' and teleportin' and extra-planar goings-on.  And... well, I'm here for you.  Bah, anyway, listen to me, dissolvin' at your feet. That's all I wanted to say.~[t#dac798] */
   IF ~~ EXIT
 END
 
@@ -1055,13 +1055,13 @@ END
 
 IF ~~ T#DaceInit_ToBFlirts3
   SAY @317
-  = ~You know, Ducky... sometimes I get to thinkin' about exactly how fond of you I am, and then I sometimes get to worryin'... especially with everything that's goin' on for you just now.  I know you're a big kid, and half-god, and all that nonsense... but be careful, will you?  For Dace?~[t#dac799]
+  = @318 /* ~You know, Ducky... sometimes I get to thinkin' about exactly how fond of you I am, and then I sometimes get to worryin'... especially with everything that's goin' on for you just now.  I know you're a big kid, and half-god, and all that nonsense... but be careful, will you?  For Dace?~[t#dac799] */
   IF ~~ EXIT
 END
 
 IF ~~ T#DaceInit_ToBFlirts4
   SAY @319
-  = ~Oh, my darlin'... sometimes you make my breath catch right in my throat with the boundlessness of the Damn Foolery you inspire in me.~[t#dac800]
+  = @320 /* ~Oh, my darlin'... sometimes you make my breath catch right in my throat with the boundlessness of the Damn Foolery you inspire in me.~[t#dac800] */
   IF ~~ EXIT
 END
 
@@ -1078,13 +1078,13 @@ END
 
 IF ~~ T#DaceInit_ToBFlirts7
   SAY @324
-  = ~Much too slow, Ducky.  Much too slow.~[t#dac802]
+  = @325 /* ~Much too slow, Ducky.  Much too slow.~[t#dac802] */
   IF ~~ EXIT
 END
 
 IF ~~ T#DaceInit_ToBFlirts8
   SAY @326
-  = ~Sorry.  Got all carried away with lovin' you for a second there.~[t#dac803]
+  = @327 /* ~Sorry.  Got all carried away with lovin' you for a second there.~[t#dac803] */
   IF ~~ EXIT
 END
 
@@ -1187,7 +1187,7 @@ IF ~~ T#DaceFlirtsToB_cheek2
 END
 
 IF ~~ T#DaceFlirtsToB_cheek3
-  SAY ~Mmmm... nice. Love you, Ducky.  Thanks for puttin' up with me.~[t#dac740]
+  SAY @348 /* ~Mmmm... nice. Love you, Ducky.  Thanks for puttin' up with me.~[t#dac740] */
   IF ~~ EXIT
 END
 
@@ -1203,19 +1203,19 @@ END
 
 IF ~~ T#DaceFlirtsToB_deep1
   SAY @351
-  = ~Hummmm... back to the grind now, I suppose, you old slave driver.~[t#dac741]
+  = @352 /* ~Hummmm... back to the grind now, I suppose, you old slave driver.~[t#dac741] */
   IF ~~ EXIT
 END
 
 IF ~~ T#DaceFlirtsToB_deep2
   SAY @353 
-  = ~Can't get away quite so easily as that, Ducky.~[t#dac743]
+  = @354 /* ~Can't get away quite so easily as that, Ducky.~[t#dac743] */
   IF ~~ EXIT
 END
 
 IF ~~ T#DaceFlirtsToB_deep3
   SAY @355
-  = ~Dammit, Duck, if you don't want to listen, just say so.  Don't distract me like that!~[t#dac742]
+  = @356 /* ~Dammit, Duck, if you don't want to listen, just say so.  Don't distract me like that!~[t#dac742] */
   IF ~~ EXIT
 END
 
@@ -1253,7 +1253,7 @@ IF ~~ T#DaceFlirtsToB_hand4
 END
 
 IF ~~ T#DaceFlirtsToB_hand5
-  SAY ~Hmph.  Hand-holding again?  Tra-la-la... whatever makes you happy, honey.~[t#dac744]
+  SAY @366 /* ~Hmph.  Hand-holding again?  Tra-la-la... whatever makes you happy, honey.~[t#dac744] */
   IF ~~ EXIT
 END
 
@@ -1290,7 +1290,7 @@ END
 
 IF ~~ T#DaceFlirtsToB_hug1
   SAY @374
-  = ~Gods, but I love you, Ducky... and if you ever try an' leave me I swear by all that's good-to-eat that I'll skin you alive.~[t#dac745]
+  = @375 /* ~Gods, but I love you, Ducky... and if you ever try an' leave me I swear by all that's good-to-eat that I'll skin you alive.~[t#dac745] */
   IF ~~ EXIT
 END
 
@@ -1306,7 +1306,7 @@ IF ~~ T#DaceFlirtsToB_hug3
 END
 
 IF ~~ T#DaceFlirtsToB_hug4
-  SAY ~Why, thank you, darlin'... hey, are you all right?  Or just trying to cop a feel? Anythin' to make your day a little brighter, though, doll.~[t#dac746]
+  SAY @379 /* ~Why, thank you, darlin'... hey, are you all right?  Or just trying to cop a feel? Anythin' to make your day a little brighter, though, doll.~[t#dac746] */
   IF ~~ EXIT
 END
 
@@ -1326,7 +1326,7 @@ IF ~~ T#DaceFlirtsToB_face1
 END
 
 IF ~~ T#DaceFlirtsToB_face2
-  SAY ~Hrm.  Must've been a good Dace today if I'm gettin' petted... ~[t#dac747]
+  SAY @383 /* ~Hrm.  Must've been a good Dace today if I'm gettin' petted... ~[t#dac747] */
   IF ~~ EXIT
 END
 
@@ -1352,7 +1352,7 @@ IF ~~ T#DaceFlirtsToB_study1
 END
 
 IF ~~ T#DaceFlirtsToB_study2
-  SAY ~Keep your eyes on the road, Ducky.  I'd like to sit down sometime today.~[t#dac748]
+  SAY @389 /* ~Keep your eyes on the road, Ducky.  I'd like to sit down sometime today.~[t#dac748] */
   IF ~~ EXIT
 END
 
@@ -1411,7 +1411,7 @@ IF ~~ T#DaceFlirtsToB_hair4
 END
 
 IF ~~ T#DaceFlirtsToB_hair5
-  SAY ~Purr.~[t#dac749]
+  SAY @405 /* ~Purr.~[t#dac749] */
   IF ~~ EXIT
 END
 
@@ -1423,7 +1423,7 @@ END
 
 IF ~~ T#DaceFlirtsToB_neck2
   SAY @408
-  = ~Honey... are your eyes glowin'?  Never... never mind.  Musta been the light.~[t#dac750]
+  = @409 /* Honey... are your eyes glowin'?  Never... never mind.  Musta been the light.~[t#dac750] */
   IF ~~ EXIT
 END
 
@@ -1444,42 +1444,42 @@ IF ~~ T#DaceFlirtsToB_neck5
 END
 
 IF ~~ T#DaceFlirtsToB_love1
-  SAY ~Love you too, m'Duck.~[t#dac751]
+  SAY @414 /* ~Love you too, m'Duck.~[t#dac751] */
   IF ~~ EXIT
 END
 
 IF ~~ T#DaceFlirtsToB_love2
-  SAY ~Never get tired of you sayin' that, Ducky.  Right back at you.~[t#dac752]
+  SAY @415 /* ~Never get tired of you sayin' that, Ducky.  Right back at you.~[t#dac752] */
   IF ~~ EXIT
 END
 
 IF ~~ T#DaceFlirtsToB_love3
-  SAY ~Oh, poor Ducky... it's like they say, I suppose... there's no accountin' for taste.~[t#dac753]
+  SAY @416 /* ~Oh, poor Ducky... it's like they say, I suppose... there's no accountin' for taste.~[t#dac753] */
   IF ~~ EXIT
 END
 
 IF ~~ T#DaceFlirtsToB_love4
-  SAY ~Do you, now?  I'm not going to forget you said that, you know.  Might even hold you to it, if the mood strikes me.~[t#dac754]
+  SAY @417 /* ~Do you, now?  I'm not going to forget you said that, you know.  Might even hold you to it, if the mood strikes me.~[t#dac754] */
   IF ~~ EXIT
 END
 
 IF ~~ T#DaceFlirtsToB_love5
-  SAY ~Bah, mush and stuff-and-nonsense.  Suppose you want me to say I love you, too.  Well, I do.  Now stow it and keep movin' so I can sit down sometime today.~[t#dac755]
+  SAY @418 /* ~Bah, mush and stuff-and-nonsense.  Suppose you want me to say I love you, too.  Well, I do.  Now stow it and keep movin' so I can sit down sometime today.~[t#dac755] */
   IF ~~ EXIT
 END
 
 IF ~~ T#DaceFlirtsToB_love6
-  SAY ~Might be rather fond of you, m'self, darlin'.~[t#dac756]
+  SAY @419 /* ~Might be rather fond of you, m'self, darlin'.~[t#dac756] */
   IF ~~ EXIT
 END
 
 IF ~~ T#DaceFlirtsToB_bathe1
-  SAY ~Nice try, Ducky... but I don't see a gaping head wound on me, do you?  Yeah, I'm probably in full posession of my facilities right now, so bathing with you isn't happening.~[t#dac757]
+  SAY @420 /* ~Nice try, Ducky... but I don't see a gaping head wound on me, do you?  Yeah, I'm probably in full posession of my facilities right now, so bathing with you isn't happening.~[t#dac757] */
   IF ~~ EXIT
 END
 
 IF ~~ T#DaceFlirtsToB_bathe2
-  SAY ~Oh, for cryin' out loud... !  Fine, Ducky.  Fine.  I'll get into a tiny, tepid tub with you and we'll soak in our collective filth.  Will that make you happy?~[t#dac758]
+  SAY @421 /* ~Oh, for cryin' out loud... !  Fine, Ducky.  Fine.  I'll get into a tiny, tepid tub with you and we'll soak in our collective filth.  Will that make you happy?~[t#dac758] */
   = @422
   = @423
   IF ~~ DO ~RestParty()~ EXIT
@@ -1492,15 +1492,15 @@ END
 
 IF ~~ T#DaceFlirtsToB_bathe4
   SAY @425
-  = ~All right, darlin'.~[t#dac760]
+  = @426 /* All right, darlin'.~[t#dac760] */
   = @427
   = @428
-  = ~Uhhnnn... .Ducky, I don't tell you enough that I love you, and I know I'm difficult a lot of the time, and... never mind, let's just enjoy this for once, and I'll shut my big Damn Fool mouth... and then we'll go to bed, all right?~[t#dac761]
+  = @429 /* ~Uhhnnn... .Ducky, I don't tell you enough that I love you, and I know I'm difficult a lot of the time, and... never mind, let's just enjoy this for once, and I'll shut my big Damn Fool mouth... and then we'll go to bed, all right?~[t#dac761] */
   IF ~~ DO ~RestParty()~ EXIT
 END
 
 IF ~~ T#DaceFlirtsToB_howru1
-  SAY ~Happy as a clam.  Why do they say that, anyway?  Who decided that clams are particularly happy critters?  Could sure go for a fried clam or two right now... ~[t#dac762]
+  SAY @430 /* ~Happy as a clam.  Why do they say that, anyway?  Who decided that clams are particularly happy critters?  Could sure go for a fried clam or two right now... ~[t#dac762] */
   IF ~~ EXIT
 END
 
@@ -1515,7 +1515,7 @@ IF ~~ T#DaceFlirtsToB_howru3
 END
 
 IF ~~ T#DaceFlirtsToB_howru4
-  SAY ~Horrible!  I just found a spider in my HAIR, Ducky.  My hair!  I'll kill you if you tell anybody I said this, but... hold me, will you?~[t#dac763]
+  SAY @433 /* ~Horrible!  I just found a spider in my HAIR, Ducky.  My hair!  I'll kill you if you tell anybody I said this, but... hold me, will you?~[t#dac763] */
   IF ~~ EXIT
 END
 
@@ -1525,12 +1525,12 @@ IF ~~ T#DaceFlirtsToB_howru5
 END
 
 IF ~~ T#DaceFlirtsToB_glad1
-  SAY ~Fishing for reassurance again, My Needy Bhaalspawn?  Won't find it here... ask me again later.  Maybe I'll have mercy on you.~[t#dac764]
+  SAY @435 /* ~Fishing for reassurance again, My Needy Bhaalspawn?  Won't find it here... ask me again later.  Maybe I'll have mercy on you.~[t#dac764] */
   IF ~~ EXIT
 END
 
 IF ~~ T#DaceFlirtsToB_glad2
-  SAY ~If I say yes, will you let me sit down for awhile?~[t#dac765]
+  SAY @436 /* ~If I say yes, will you let me sit down for awhile?~[t#dac765] */
   IF ~~ EXIT
 END
 
@@ -1540,12 +1540,12 @@ IF ~~ T#DaceFlirtsToB_glad3
 END
 
 IF ~~ T#DaceFlirtsToB_glad4
-  SAY ~Do bears pee in the woods?~[t#dac766]
+  SAY @438 /* ~Do bears pee in the woods?~[t#dac766] */
   IF ~~ EXIT
 END
 
 IF ~~ T#DaceFlirtsToB_glad5
-  SAY ~I don't know... I do know I love you... but I'm still not sure I shouldn't kill you all the same.~[t#dac767]
+  SAY @439 /* ~I don't know... I do know I love you... but I'm still not sure I shouldn't kill you all the same.~[t#dac767] */
   IF ~~ EXIT
 END
 
@@ -1564,7 +1564,7 @@ IF ~~ T#DaceFlirtsToB_vic1
 END
 
 IF ~~ T#DaceFlirtsToB_end
-  SAY ~Oh... oh, gods.  I'd ask if you're kiddin', <CHARNAME>, but I can see by the look in your eyes that you're not.  How... how could you?  Just outta curiosity... ?  When you knew how hard it was for me to come to terms with... with actually lovin' you.  After everything I gambled to be with you... and everything you've done for me, how you've made me trust you... care so much... when I always told myself what nonsense that was, how it'd bite me on the rear someday... how?  Never mind.  Don't speak to me anymore, please.  I... told you I'd see this through, and I will, but—just—oh, my poor heart.~[t#dac768]
+  SAY @447 /* ~Oh... oh, gods.  I'd ask if you're kiddin', <CHARNAME>, but I can see by the look in your eyes that you're not.  How... how could you?  Just outta curiosity... ?  When you knew how hard it was for me to come to terms with... with actually lovin' you.  After everything I gambled to be with you... and everything you've done for me, how you've made me trust you... care so much... when I always told myself what nonsense that was, how it'd bite me on the rear someday... how?  Never mind.  Don't speak to me anymore, please.  I... told you I'd see this through, and I will, but—just—oh, my poor heart.~[t#dac768] */
   IF ~~ DO ~SetGlobal("T#DaceRomanceActive","GLOBAL",3)~ EXIT
 END
 

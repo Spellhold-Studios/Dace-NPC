@@ -8,10 +8,10 @@ BEGIN T#DACEJ
 // ---------------------------------------------
 
 // Circus--Get riddle right--(..rewards those with a quick and agile mind)(Think this is Genie1.dlg)
-INTERJECT_COPY_TRANS GENIE1 7 T#DRIDDLE
+INTERJECT_COPY_TRANS KGENIE1 7 T#DRIDDLE
 == T#DACEJ IF ~InParty("T#Dace") !StateCheck("T#Dace",CD_STATE_NOTVALID) See("T#Dace")~ THEN
 @0
-== GENIE1 @1
+== KGENIE1 @1
 END
 
 
@@ -2442,7 +2442,7 @@ END
 
 
 //SOA FRIEND 4 Fighter-types
-IF ~Global("T#DaceFriendTalks","GLOBAL",7) OR(2) Class(Player1,FIGHTER_ALL)~ T#DI4fight_1
+IF ~Global("T#DaceFriendTalks","GLOBAL",7) Class(Player1,FIGHTER_ALL)~ T#DI4fight_1
   SAY @682
   ++ @683 DO ~RealSetGlobalTimer("T#DaceFriendTalksTimer","GLOBAL",2700) IncrementGlobal("T#DaceFriendTalks","GLOBAL",1)~ + T#DI4fight_2
   ++ @684 DO ~RealSetGlobalTimer("T#DaceFriendTalksTimer","GLOBAL",2700) IncrementGlobal("T#DaceFriendTalks","GLOBAL",1)~ + T#DI4fight_3
