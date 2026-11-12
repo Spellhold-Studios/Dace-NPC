@@ -59,6 +59,11 @@ LANGUAGE ~Russian (translation by Prostln)~
          ~dace/translations/english/setup.tra~
          ~dace/translations/russian/setup.tra~
 
+LANGUAGE ~Schinese~
+         ~schinese~
+         ~dace/languages/english/setup.tra~
+         ~dace/languages/schinese/setup.tra~
+		 
 // --------------------------------------------
 // Components
 // --------------------------------------------
